@@ -17,3 +17,9 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/twarrre/twarrre.github.io
+  
+pages_list:       
+  About: '/about'
+  Games: '/games'
+  Software: '/software'
+  Art: '/art'
