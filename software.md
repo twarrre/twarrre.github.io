@@ -9,7 +9,7 @@ title: Software
 			<tr>
 				<td>
 					<a href="{{ post.url }}">
-						<img src="{{ post.image }}" height="200" width="400px" border="1px"/>
+						<img src="{{ post.image }}" height="200px" width="400px" border="1px"/>
 					</a>
 				</td>
 				<td>
