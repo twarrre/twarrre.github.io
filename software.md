@@ -16,6 +16,9 @@ title: Software
 					<a href="{{ post.url }}">
 						<h3>{{ post.title }}</h3>
 					</a>
+					<p>
+						{{ post.desc }}
+					</p>
 				</td>
 			</tr>
 		{% endfor %}

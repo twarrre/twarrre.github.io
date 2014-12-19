@@ -2,6 +2,7 @@
 layout: game
 title: Blood Loss
 image: /assets/blood_loss/blood_loss_banner.png
+desc: "A first-person rouge-like dungeon crawler, where you try to get to the farthest labyrinth possible before you blood runs out."
 ---
 
 You wake up in a strange labyrinth with a large bleeding wound on your goat-like arm. On the verge of death and having no way to stop the bleeding, your only option is to try and escape the seemingly endless labyrinths. You must collect keys in order to unlock portals that will take you one step closer to freedom. However, you must watch you bleeding arm. Scavenged bandages and blood packs will help prolong your life, but if left open, your wound will leave a blood trail that lurking monsters may follow. Armed with only a bright jar of fireflies, you have no weapons to fight the lurking monsters. You will have to outwit the monsters by leading them on to trap floors, or by rearranging the labyrinth walls around you. You must get as far as you can before you bleeding arm causes you to run out of blood.
