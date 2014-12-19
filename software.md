@@ -10,8 +10,6 @@ title: Software
 				<a href="{{ post.url }}">
 					<img src="{{ post.image }}" height="200" width="400px" border="1px"/>
 				</a>
-			</p>
-			<p>
 				<a href="{{ post.url }}">
 					<h3>{{ post.title }}</h3>
 				</a>
