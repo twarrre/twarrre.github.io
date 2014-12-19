@@ -8,7 +8,7 @@ title: Software
 		<div class="software">
 			<p style="float: left;">
 				<a href="{{ post.url }}">
-					<img src="{{ post.image }}" height="400" width="200px" border="20px"/>
+					<img src="{{ post.image }}" height="200" width="400px" border="1px"/>
 				</a>
 			</p>
 			<p>
@@ -16,6 +16,6 @@ title: Software
 					<h3>{{ post.title }}</h3>
 				</a>
 			</p>
-	</div>
+		</div>
 	{% endfor %}
 </div>
