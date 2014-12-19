@@ -4,7 +4,7 @@ title: Software
 ---
 
 <div class="softwares">
-	<table>
+	<table border="0">
 		{% for post in site.categories.software%}
 			<tr>
 				<td>
