@@ -432,3 +432,49 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/**
+ * Icons
+ */
+.icon-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 110px;
+}
+
+.icon--github
+{
+  padding: 3px;
+  float:left;
+}
+
+.icon--twitter
+{
+  padding: 3px;
+  float:left;
+}
+
+.icon--facebook
+{
+  padding: 3px;
+  float: right;
+}
+
+.icon--instagram
+{
+  padding: 3px;
+  float: right;
+}
+
+.icon--linkedin
+{
+  padding: 3px;
+  float: right;
+}
+
+.icon > svg {
+  display:inline-block;
+  width: 32px;
+  height: 32px; }
+  .icon > svg path {
+    fill: #828282; }
