@@ -113,6 +113,10 @@ strong {
   color: #303030;
 }
 
+.footer {
+  border-top: 1px solid #136b86;
+  padding-top: 2em;
+ }
 
 /* Lists */
 ul, ol, dl {
