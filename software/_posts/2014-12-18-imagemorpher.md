@@ -1,7 +1,7 @@
 ---
 layout: software
 title: Image Morpher
-image: /assets/cluck/cluck_banner_small.png
+image: /assets/image_morpher/image_morpher_banner_small.png
 desc: "Use control lines to morph two images into each other."
 ---
 
