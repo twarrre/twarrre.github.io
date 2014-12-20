@@ -7,7 +7,7 @@ title: Art
 		<table>
 		{% for post in site.categories.art%}
 			<tr>
-				<td style="width:400px">
+				<td>
 					<a href="{{ post.url }}">
 						<img src="{{ post.image }}" height="200px" width="400px" border="1px"/>
 					</a>

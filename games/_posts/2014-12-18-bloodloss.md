@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Blood Loss
-image: /assets/blood_loss/blood_loss_banner.png
+image: /assets/blood_loss/blood_loss_banner_small.png
 desc: "A first-person dungeon crawler, where you try to get to the farthest labyrinth possible before your blood runs dry."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "Sidekick Tales: Limbitless"
-image: /assets/sidekick/sidekick_banner.png
+image: /assets/sidekick/sidekick_banner_small.png
 desc: "An adventure game, where you must borrow the local animal's powers in order to save Supman."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Find A Word
-image: /assets/cluck/cluck_banner.png
+image: /assets/cluck/cluck_banner_small.png
 desc: "A word search game with an endless amount of words to find."
 ---
 
