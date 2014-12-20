@@ -136,7 +136,7 @@ dd {
 .center {
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  text-align: left;
   width: 100%;
 }
 
