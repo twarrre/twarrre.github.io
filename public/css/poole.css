@@ -457,19 +457,19 @@ a.pagination-item:hover {
 .icon--facebook
 {
   padding: 3px;
-  float: right;
+  float: left;
 }
 
 .icon--instagram
 {
   padding: 3px;
-  float: right;
+  float: left;
 }
 
 .icon--linkedin
 {
   padding: 3px;
-  float: right;
+  float: left;
 }
 
 .icon > svg {
