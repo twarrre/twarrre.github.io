@@ -1,7 +1,7 @@
 ---
 layout: software
 title: Wave Editor
-image: /assets/cluck/cluck_banner_small.png
+image: /assets/cluck/wave_editor_banner_small.png
 desc: "Analyse, filter, and edit WAVE files by either loading one in, or recoding one yourself."
 ---
 

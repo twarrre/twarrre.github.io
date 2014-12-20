@@ -1,7 +1,7 @@
 ---
 layout: software
 title: Facial Recognition
-image: /assets/cluck/cluck_banner_small.png
+image: /assets/cluck/facial_recognition_banner_small.png
 desc: "Load in faces and the program will tell you if that face is in it's face bank."
 ---
 
