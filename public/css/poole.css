@@ -133,6 +133,13 @@ dd {
 
 /* Misc */
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
+}
+
 hr {
   position: relative;
   margin: 1.5rem 0;
@@ -440,6 +447,7 @@ a.pagination-item:hover {
 .icon-container {
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
   width: 210px;
 }
 
