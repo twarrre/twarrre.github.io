@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Games
+tag: Games
 ---
 
 <div class="games">

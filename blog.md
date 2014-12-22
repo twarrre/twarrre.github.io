@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+tag: Blog
 ---
 
 <div class="blogposts">

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+tag: Software
 ---
 
 <div class="softwares">

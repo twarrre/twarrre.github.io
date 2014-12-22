@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Art
+tag: Art
 ---
 
 <div class="arts">

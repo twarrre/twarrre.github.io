@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tag: About
 ---
 
 My name's Trevor Ware and I am currently living in Vancouver, British Columbia. I love video games and enjoy making them.
