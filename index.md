@@ -8,3 +8,4 @@ My name's Trevor Ware and I am currently living in Vancouver, British Columbia. 
 
 Currently I am going to school at BCIT to become a video game developer. This site contains some of the games and software I have made throughout the years.
 <br>
+<br>
