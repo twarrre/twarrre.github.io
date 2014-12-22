@@ -493,7 +493,7 @@ menu bar
 */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 #cssmenu {
-  background: #f96e5b;
+  background: #AECBFC;
   width: auto;
 }
 #cssmenu ul {
@@ -524,7 +524,7 @@ menu bar
   text-align: center;
 }
 #cssmenu ul li a {
-  color: #ffffff;
+  color: #136b86;
   text-decoration: none;
   display: block;
   padding: 15px 25px;
