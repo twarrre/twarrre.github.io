@@ -588,7 +588,7 @@ menu bar
 #cssmenu.align-right li:first-child a:after {
   display: none;
 }
-/*@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   #cssmenu ul li {
     float: none;
     display: block;
@@ -598,7 +598,7 @@ menu bar
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    border-bottom: 1px solid #fb998c;
+    border-bottom: 1px solid #136b86;
   }
   #cssmenu ul li.last > a,
   #cssmenu ul li:last-child > a {
@@ -610,4 +610,4 @@ menu bar
   #cssmenu ul li a:before {
     display: none;
   }
-}*/
+}
