@@ -11,11 +11,14 @@
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>		
-		<h3 class="masthead-title">
-		{% for page in site.pages_list %}
-		  &nbsp;&nbsp;&nbsp;
-		  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-		{% endfor %}
+		<h3 class="masthead-title">	
+			<div id='cssmenu'>
+				<ul>
+					{% for page in site.pages_list %}
+						<li><a href='{{ page[1]  }}'><span>{{ page[0] }}</span></a></li>
+					{% endfor %}
+				</ul>
+			</div>
 		</h3>
       </header>
 
