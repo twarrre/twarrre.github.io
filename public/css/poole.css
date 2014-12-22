@@ -133,6 +133,9 @@ dd {
 
 /* Misc */
 
+.video {
+	text-align: center;
+}
 .center {
   text-align: center;
   position: absolute;
@@ -488,8 +491,8 @@ a.pagination-item:hover {
   .icon > svg path {
     fill: #828282; }
 	
-	/*
-menu bar
+/*
+	menu bar
 */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 #cssmenu {
@@ -553,7 +556,7 @@ menu bar
   top: 19px;
   height: 6px;
   width: 6px;
-  background: #ffffff;
+  background: #136b86;
   opacity: .5;
 }
 #cssmenu ul li a:before {
