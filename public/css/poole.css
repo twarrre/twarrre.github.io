@@ -134,11 +134,11 @@ dd {
 /* Misc */
 
 .center {
-  margin-left: auto;
-  margin-right: auto;
+  /*margin-left: auto;
+  margin-right: auto;*/
   position: absolute;
-  text-align: center;
   width: 100%;
+  text-align: center;
 }
 
 hr {
