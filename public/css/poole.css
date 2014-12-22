@@ -136,9 +136,13 @@ dd {
 .center {
   /*margin-left: auto;
   margin-right: auto;*/
-  position: absolute;
+  /*position: absolute;
   width: 100%;
+  text-align: center;*/
   text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
 }
 
 hr {
