@@ -16,7 +16,7 @@
 				<ul>
 					{% for pageLink in site.pages_list %}
 						{% if pageLink[0] == page.tag %}
-							<li class='active'><a href='{{ pageLink[1]  }}'><span>{{ pageLink[0] }} hello world</span></a></li>
+							<li class='active'><a href='{{ pageLink[1]  }}'><span>{{ pageLink[0] }}</span></a></li>
 						{% else %}
 							<li><a href='{{ pageLink[1]  }}'><span>{{ pageLink[0] }}</span></a></li>
 						{% endif %}
