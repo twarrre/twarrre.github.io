@@ -76,7 +76,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  color: #2F5C05;
+  color: #ffffff;
   position: relative;
   top: 2px;
 }
@@ -112,7 +112,7 @@ p {
 }
 
 strong {
-  color: #2F5C05;
+  color: #ffffff;
 }
 
 .footer {
