@@ -15,7 +15,7 @@
 			<div id='cssmenu'>
 				<ul>
 					{% for page in site.pages_list %}
-						{% if page[0] == site.title %}
+						{% if page[0] == page.title %}
 							<li class='active'><a href='{{ page[1]  }}'><span>{{ page[0] }}</span></a></li>
 						{% else %}
 							<li><a href='{{ page[1]  }}'><span>{{ page[0] }}</span></a></li>
