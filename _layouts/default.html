@@ -14,11 +14,11 @@
 		<h3 class="masthead-title">	
 			<div id='cssmenu'>
 				<ul>
-					{% for page in site.pages_list %}
-						{% if page[0] == page.tag %}
-							<li class='active'><a href='{{ page[1]  }}'><span>{{ page[0] }} hello world</span></a></li>
+					{% for pageLink in site.pages_list %}
+						{% if pageLink[0] == page.tag %}
+							<li class='active'><a href='{{ pageLink[1]  }}'><span>{{ pageLink[0] }} hello world</span></a></li>
 						{% else %}
-							<li><a href='{{ page[1]  }}'><span>{{ page[0] }}</span></a></li>
+							<li><a href='{{ pageLink[1]  }}'><span>{{ pageLink[0] }}</span></a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
