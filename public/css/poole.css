@@ -137,6 +137,7 @@ dd {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  position: absolute;
   width: 100%;
 }
 
