@@ -500,12 +500,11 @@ a.pagination-item:hover {
   float: left;
 }
 
-.icon > svg {
-  display:inline-block;
-  width: 32px;
-  height: 32px; }
-  .icon > svg path {
-    fill: #828282; }
+.icons a:hover,
+.icons a:focus {
+  position: relative;
+  top: 2px;
+}
 	
 /*
 	menu bar
