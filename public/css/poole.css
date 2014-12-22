@@ -107,7 +107,7 @@ h4, h5, h6 {
 
 /* Body text */
 p {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
