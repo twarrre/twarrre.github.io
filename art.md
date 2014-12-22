@@ -8,19 +8,17 @@ tag: Art
 		<table>
 		{% for post in site.categories.art%}
 			<tr>
-				<td style="Width: 200px">
-					<a href="{{ post.url }}">
+				<a href="{{ post.url }}">
+					<td style="Width: 200px">					
 						<img src="{{ post.image }}" height="200px" width="200px" border="1px"/>
-					</a>
-				</td>
-				<td>
-					<a href="{{ post.url }}">
+					</td>
+					<td>
 						<h3>{{ post.title }}</h3>
-					</a>
-					<p>
-						{{ post.desc }}
-					</p>
-				</td>
+						<p>
+							{{ post.desc }}
+						</p>
+					</td>
+				</a>
 			</tr>
 		{% endfor %}
 	</table>
