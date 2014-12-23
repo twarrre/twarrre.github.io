@@ -600,7 +600,7 @@ a.pagination-item:hover {
 #cssmenu.align-right li:first-child a:after {
   display: none;
 }
-@media screen and (max-width: 550px) { /*768*/
+@media screen and (max-width: 600px) { /*768*/
   #cssmenu ul li {
     float: none;
     display: block;
