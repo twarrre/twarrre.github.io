@@ -77,7 +77,7 @@ a strong {
 a:hover,
 a:focus {
   color: #333333;
-  position: relative;
+  /*position: relative;*/
   top: 2px;
 }
 
