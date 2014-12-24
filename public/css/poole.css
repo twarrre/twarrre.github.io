@@ -636,7 +636,7 @@ ul.rig {
 ul.rig li {
 	display: inline-block;
 	padding: 10px;
-	margin: 0 0 2.5% 2.5%;
+	margin: 0 0 0 0;
 	background: #fff;
 	border: 1px solid #ddd;
 	font-size: 16px;
