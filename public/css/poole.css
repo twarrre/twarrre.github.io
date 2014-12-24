@@ -635,9 +635,9 @@ ul.rig {
 }
 ul.rig li {
 	display: inline-block;
-	padding: 10px;
+	padding: 5px;
 	margin: 0 0 2.5% 2.5%;
-	background: #fff;
+	background: #136b86;
 	border: 1px solid #ddd;
 	font-size: 16px;
 	font-size: 1rem;
@@ -646,16 +646,6 @@ ul.rig li {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
-	/*display: inline-block;
-	padding: 3px;
-	margin: 6px 6px 6px 6px;
-	background: #136b86;
-	font-size: 16px;
-	font-size: 1rem;
-	vertical-align: top;
-	box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;*/
 }
 ul.rig li img {
 	max-width: 100%;
