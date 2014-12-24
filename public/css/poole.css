@@ -74,7 +74,7 @@ a strong {
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
+a:hover  :not(#menu),
 a:focus  :not(#menu){
   color: #333333;
   position: relative;
