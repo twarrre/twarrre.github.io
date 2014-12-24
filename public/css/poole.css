@@ -681,7 +681,7 @@ ul.rig.columns-4 li {
 @media (max-width: 480px) {
 	ul.grid-nav li {
 		display: block;
-		margin: 0 0 5px;
+		margin: 0 0 0;
 	}
 	ul.grid-nav li a {
 		display: block;
@@ -691,6 +691,6 @@ ul.rig.columns-4 li {
 	}
 	ul.rig li {
 		width: 100% !important; /* over-ride all li styles */
-		margin: 0 0 20px;
+		margin: 0 0 0;
 	}
 }
