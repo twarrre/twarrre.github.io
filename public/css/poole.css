@@ -635,14 +635,13 @@ ul.rig {
 }
 ul.rig li {
 	display: inline-block;
-	padding: 10px;
-	margin: 0 0 0 0;
+	padding: 3px;
+	margin: 2px 2px 2px 2px;
 	background: #136b86;
 	border: 1px solid #ddd;
 	font-size: 16px;
 	font-size: 1rem;
 	vertical-align: top;
-	box-shadow: 0 0 5px #ddd;
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
