@@ -75,7 +75,7 @@ a strong {
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
-a:focus {
+a:focus  :not(#cssmenu ul li a){
   color: #333333;
   position: relative;
   top: 2px;
