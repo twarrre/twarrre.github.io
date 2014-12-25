@@ -2,12 +2,6 @@
   description: Collection of images from BloodLoss
   imagefolder: /assets/blood_loss/gallery
   images:
-  - name: bloodLoss-1.jpg
-    text: The first image
-  - name: bloodLoss-2.jpg
-    text: The second image
-  - name: bloodLoss-3.jpg
-    text: The third image
 - id: cluckGallery
   description: Collection of images from Cluck
   imagefolder: /assets/cluck/gallery
@@ -22,19 +16,7 @@
   description: Collection of images from Sidekick
   imagefolder: /assets/sidekick/gallery
   images:
-  - name: sidekick-1.jpg
-    text: The first image
-  - name: sidekick-2.jpg
-    text: The second image
-  - name: sidekick-3.jpg
-    text: The third image
 - id: findawordGallery
   description: Collection of images from Find A Word
   imagefolder: /assets/find_a_word/gallery
   images:
-  - name: faw-1.jpg
-    text: The first image
-  - name: faw-2.jpg
-    text: The second image
-  - name: faw-3.jpg
-    text: The third image
