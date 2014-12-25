@@ -20,17 +20,3 @@ This game was developed by a team of four during my first term of video game dev
 * Framework: Unity
 * Programming Language: C#
 * IDE: MonoDevelop / Visual Studio 2013
-
-###Images
-
-<ul class="rig columns-2">
-	{% for gallery in site.data.galleries %}
-		{% if page.gallery == gallery.id %}
-			{% for image in gallery.images %}
-				<li>
-					<img src="{{ gallery.imagefolder }}/{{ image.name }}" />
-				</li>
-			{% endfor %}
-		{% endif %}
-	{% endfor %}
-</ul>

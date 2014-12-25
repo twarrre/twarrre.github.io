@@ -2,5 +2,17 @@
 layout: default
 ---
 <article class="post">
-  {{ content }}
+   <h1 class="game-title">{{ page.title }}</h1>
+    {{ content }}
+	<h3>Images:</h3>
+	<ul class="rig columns-2">
+	{% for gallery in site.data.galleries %}
+		{% if page.gallery == gallery.id %}
+			{% for image in gallery.images %}
+				<li>
+					<img src="{{ gallery.imagefolder }}/{{ image.name }}" />
+				</li>
+			{% endfor %}
+		{% endif %}
+	{% endfor %}
 </article>

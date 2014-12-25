@@ -16,17 +16,3 @@ This game was developed by a team of four during my first term of video game dev
 * Framework: Android
 * Programming Language: Java
 * IDE: Eclipse
-
-###Images
-
-<ul class="rig columns-2">
-	{% for gallery in site.data.galleries %}
-		{% if page.gallery == gallery.id %}
-			{% for image in gallery.images %}
-				<li>
-					<img src="{{ gallery.imagefolder }}/{{ image.name }}" />
-				</li>
-			{% endfor %}
-		{% endif %}
-	{% endfor %}
-</ul>
