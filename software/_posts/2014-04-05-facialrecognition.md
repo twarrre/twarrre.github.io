@@ -13,9 +13,9 @@ You live in a village with fellow chicken herders and every year you and your fe
 This game was developed by a team of four during my first term of video game development at BCIT. My role included programming the player and camera movement including sprinting, crouching, sliding, and catching, toon and skinned animation shaders, programming the audio sound effects, as well as programming the HUD for the game.
 
 #Developed With:
-*Framework: Visual C#
-*Programming Language: C#
-*IDE: Visual Studio 2013
+* Framework: .NET
+* Programming Language: C#
+* IDE: Visual Studio 2013
 
 #Images
 
