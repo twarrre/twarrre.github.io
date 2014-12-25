@@ -636,7 +636,7 @@ ul.rig {
 ul.rig li {
 	display: inline-block;
 	padding: 5px;
-	margin: 2.5% 0 2.5% 2.5%;
+	margin: 0 0 2.5% 2.5%;
 	background: #136b86;
 	border: 1px solid #136b86;
 	font-size: 16px;
@@ -682,7 +682,7 @@ ul.rig.columns-4 li {
 @media (max-width: 480px) {
 	ul.grid-nav li {
 		display: block;
-		margin: 0 0 0;
+		margin: 2.5% 0 0;
 	}
 	ul.grid-nav li a {
 		display: block;
