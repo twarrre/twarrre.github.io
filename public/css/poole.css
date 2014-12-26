@@ -692,9 +692,11 @@ ul.rig.columns-4 li {
 	ul.rig {
 		margin-left: 0;
 	}
+	ul.rig li img {
+		margin-left: 0%  !important;
+	}
 	ul.rig li {
 		width: 100% !important; /* over-ride all li styles */
 		margin: 2.5% 0 0;
-		margin-left: 0%  !important;
 	}
 }
