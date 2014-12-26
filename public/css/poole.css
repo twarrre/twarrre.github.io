@@ -651,7 +651,7 @@ ul.rig li img {
 	max-width: 100%;
 	height: auto;
 	margin: 0 0 0;
-	margin-left: -15%  !important;
+	margin-left: -15.5%  !important;
 }
 ul.rig li h3 {
 	margin: 0 0 0;
@@ -693,7 +693,7 @@ ul.rig.columns-4 li {
 		margin-left: 0;
 	}
 	ul.rig li img {
-		margin-left: -5%  !important;
+		margin-left: -10%  !important;
 	}
 	ul.rig li {
 		width: 100% !important; /* over-ride all li styles */
