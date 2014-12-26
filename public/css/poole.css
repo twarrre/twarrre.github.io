@@ -632,6 +632,7 @@ Grid for images
 ul.rig {
 	list-style: none;
 	font-size: 0px;
+	width: 100%;
 	/*margin-left: -10%;*/ /* should match li left margin */
 }
 ul.rig li {
