@@ -695,6 +695,6 @@ ul.rig.columns-4 li {
 	ul.rig li {
 		width: 100% !important; /* over-ride all li styles */
 		margin: 2.5% 0 0;
-		margin-left: 4.5%  !important;
+		margin-left: -4.5%  !important;
 	}
 }
