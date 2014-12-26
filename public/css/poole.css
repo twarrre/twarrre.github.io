@@ -636,10 +636,10 @@ ul.rig {
 }
 ul.rig li {
 	display: inline-block;
-	padding: 5px;
+	/*padding: 5px;*/
 	margin: 0 0 2.5% 2.5%;
 	background: #136b86;
-	border: 1px solid #136b86;
+	/*border: 1px solid #136b86;*/
 	font-size: 16px;
 	font-size: 1rem;
 	vertical-align: top;
