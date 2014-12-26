@@ -633,6 +633,7 @@ ul.rig {
 	list-style: none;
 	font-size: 0px;
 	width: 100%;
+	text-align: center;
 	/*margin-left: -10%;*/ /* should match li left margin */
 }
 ul.rig li {
@@ -652,7 +653,7 @@ ul.rig li img {
 	max-width: 100%;
 	height: auto;
 	margin: 0 0 0;
-	margin-left: -15%  !important;
+	/*margin-left: -15%  !important;*/
 }
 ul.rig li h3 {
 	margin: 0 0 0;
@@ -694,7 +695,7 @@ ul.rig.columns-4 li {
 		margin-left: 0;
 	}
 	ul.rig li img {
-		margin-left: -10%  !important;
+		/*margin-left: -10%  !important;*/
 	}
 	ul.rig li {
 		width: 100% !important; /* over-ride all li styles */
