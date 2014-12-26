@@ -8,10 +8,14 @@ tag: Blog
 	<div class="blogpost">
 		<ul>
 			{% for post in site.categories.blog%}
-				<a href="{{ post.url }}">
-				  <li>{{ post.title }}</li>
-				</a>
+				<li>
+					<a href="{{ post.url }}">
+					  {{ post.title }}
+					</a>
+				</li>
 			{% endfor %}
 		</ul>
 	</div>
 </div>
+<br>
+<br>
