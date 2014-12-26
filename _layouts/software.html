@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<script src="/public/js/jquery-1.10.2.min.js"></script>
+<script src="/public/js/lightbox-2.6.min.js"></script>
+<link href="/public/css/lightbox.css" rel="stylesheet" />
+
 <article class="post">
     <h1 class="game-title">{{ page.title }}</h1>
     {{ content }}
@@ -10,7 +14,9 @@ layout: default
 		{% if page.gallery == gallery.id %}
 			{% for image in gallery.images %}
 				<li>
-					<img src="{{ gallery.imagefolder }}/{{ image.name }}" />
+					<a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+						<img src="{{ gallery.imagefolder }}/{{ image.name }}" />
+					</a>
 				</li>
 			{% endfor %}
 		{% endif %}
