@@ -80,6 +80,10 @@ a:focus  :not(#menu){
   position: relative;
   top: 2px;
 }
+#blog a:hover,
+#blog a:focus{
+	top: 2px !important;
+}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
