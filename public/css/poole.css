@@ -80,8 +80,8 @@ a:focus  :not(#menu){
   position: relative;
   top: 2px;
 }
-#blog a:hover,
-#blog a:focus{
+#blog :hover,
+#blog :focus{
 	top: 2px !important;
 }
 
