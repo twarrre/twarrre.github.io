@@ -65,6 +65,20 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
+}
+
+
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #136b86;
@@ -79,10 +93,6 @@ a:focus  :not(#menu){
   color: #333333;
   position: relative;
   top: 2px;
-}
-#blog :hover,
-#blog :focus{
-	top: 2px !important;
 }
 
 /* Headings */
@@ -124,19 +134,6 @@ strong {
   border-top: 1px solid #136b86;
   padding-top: 2em;
  }
-
-/* Lists */
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-dd {
-  margin-bottom: .5rem;
-}
 
 /* Misc */
 

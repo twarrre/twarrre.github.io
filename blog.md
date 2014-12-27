@@ -9,7 +9,7 @@ tag: Blog
 		<ul>
 			{% for post in site.categories.blog%}
 				<li>
-					<a id="blog" href="{{ post.url }}">
+					<a href="{{ post.url }}">
 					  {{ post.title }}  -  {{ post.date | date_to_string }}
 					</a>
 				</li>
