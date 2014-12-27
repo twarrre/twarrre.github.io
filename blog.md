@@ -6,15 +6,9 @@ tag: Blog
 
 <div class="blogposts">
 	<div class="blogpost">
-		<ul>
-			{% for post in site.categories.blog%}
-				<li>
-					<a href="{{ post.url }}">
-					  {{ post.title }}  -  {{ post.date | date_to_string }}
-					</a>
-				</li>
-			{% endfor %}
-		</ul>
+		{% for post in site.categories.blog%}
+			*[{{ post.title }}  -  {{ post.date | date_to_string }}]({{ post.url }})
+		{% endfor %}
 	</div>
 </div>
 <br>
