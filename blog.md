@@ -4,7 +4,17 @@ title: Blog
 tag: Blog
 ---
 
-{% for post in site.categories.blog%}
-	 * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
+<div class="blogposts">
+	<div class="blogpost">
+		<ul>
+			{% for post in site.categories.blog%}
+				<li>
+					<a href="{{ post.url }}">
+					  {{ post.title }}&#45;{{ post.date | date_to_string }}
+					</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>
 <br>
