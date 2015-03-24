@@ -44,3 +44,5 @@
   description: Collection of images from Plant a Carrot
   imagefolder: /assets/plant_a_carrot/gallery
   images:
+  - name: carrot-1.jpg
+    text: The first image
