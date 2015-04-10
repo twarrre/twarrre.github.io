@@ -36,7 +36,7 @@
   description: Collection of images from Find A Word
   imagefolder: /assets/find_a_word/gallery
   images:
-   - name: word-1.png
+  - name: word-1.png
     text: The first image
   - name: word-2.png
     text: The second image
