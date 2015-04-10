@@ -1,10 +1,10 @@
 ---
 layout: game
-title: Plant a Carrot
-image: /assets/plant_a_carrot/carrot_banner_small.png
-desc: "What do you do now? Plant a carrot."
+title: Viking XII: A Space Odyssey
+image: /assets/viking_twelve/carrot_banner_small.png
+desc: "Viking fight aliens in the turn-based strategy game."
 tag: Games
-gallery: plantacarrotGallery
+gallery: vikingtwelvetGallery
 ---
 In the middle of a hunger crisis, you and your trusty farming satchel are the only hope for humanity. What do you do now? In Plant a Carrot, you solve world hunger one carrot at a time. As you plant carrots, world hunger goes down, but if plant an evil carrot you actually harm humanity. 
 
