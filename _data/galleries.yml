@@ -36,6 +36,20 @@
   description: Collection of images from Find A Word
   imagefolder: /assets/find_a_word/gallery
   images:
+   - name: word-1.png
+    text: The first image
+  - name: word-2.png
+    text: The second image
+  - name: word-3.png
+    text: The third image
+  - name: word-4.png
+    text: The fourth image
+  - name: word-5.png
+    text: The fifth image
+  - name: word-6.png
+    text: The sixth image
+  - name: word-7.png
+    text: The seventh image
 - id: imagemorpherGallery
   description: Collection of images from the Image Morpher
   imagefolder: /assets/image_morpher/gallery
