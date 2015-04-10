@@ -43,7 +43,7 @@
   - name: teddie-3.png
     text: The third image
   - name: teddie-4.png
-    text: The forth image
+    text: The fourth image
 - id: chitchatGallery
   description: Collection of images from ChitChat
   imagefolder: /assets/chitchat/gallery
