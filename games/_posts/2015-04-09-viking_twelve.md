@@ -4,7 +4,7 @@ title: "Viking XII: A Space Odyssey"
 image: /assets/viking_twelve/viking_banner_small.png
 desc: "Vikings fight aliens in this turn-based strategy game."
 tag: Games
-gallery: plantacarrotGallery
+gallery: vikingGallery
 ---
 This game is still under construction.
 
