@@ -1,6 +1,6 @@
 ---
 layout: game
-title: Viking XII: A Space Odyssey
+title: "Viking XII: A Space Odyssey"
 image: /assets/viking_twelve/carrot_banner_small.png
 desc: "Viking fight aliens in the turn-based strategy game."
 tag: Games
