@@ -6,11 +6,14 @@ desc: "Vikings fight aliens in this turn-based strategy game."
 tag: Games
 gallery: plantacarrotGallery
 ---
-In the middle of a hunger crisis, you and your trusty farming satchel are the only hope for humanity. What do you do now? In Plant a Carrot, you solve world hunger one carrot at a time. As you plant carrots, world hunger goes down, but if plant an evil carrot you actually harm humanity. 
+This game is still under construction.
 
-This game was developed by a team of four during the Vancouver Global Game Jam. The theme for the Game Jam was "What do you do now?". For this game, I handled programming the animations, the design of the world, as well as the placement of the carrots. The game can be viewed <a href="http://globalgamejam.org/2015/games/plant-carrot">here</a> and played <a href="http://gamejolt.com/games/other/plant-a-carrot/46324/">here</a>.
+Annoyed that historians were so begrudging in acknowledging that they were in the first foreigners to reach the Americas, the Vikings have been secretly improving their long ships to prove once and for all that they’re the best explorers – by sailing into outer space. But what they didn’t expect was that the outer reaches of our solar system are teeming with gray aliens. The aliens, angry that their heads are too big to wear the Vikings’ awesome hats, have sworn to eliminate these stylish interlopers from their domain.
+
+This game is currently being developed by a team of five for the second term of the BCIT Video Game Development program. The game is a local two player turn-based strategy game, designed for players to pass an iPad back and forth. Each team selects and places their units, all of which have a pool of action points that they use to move, attack, search asteroids, or use their special powers. In this game I handled the camera controls, parts of the render pipeline, unit placement, and both the programming and designing of some of the GUI and HUD elements.
 
 ###Developed With:
-* Engine: Unity
-* Programming Language: C#
-* IDE: Visual Studio 2013
+* Platform: iPad running iOS 8.1 and up
+* Graphics API: OpenGL ES 2.0
+* Programming Language: Objective-C, C, and C++
+* IDE: Xcode 6
