@@ -36,6 +36,14 @@
   description: Collection of images of Teddie
   imagefolder: /assets/teddie/gallery
   images:
+  - name: teddie-1.png
+    text: The first image
+  - name: teddie-2.png
+    text: The second image
+  - name: teddie-3.png
+    text: The third image
+  - name: teddie-4.png
+    text: The forth image
 - id: chitchatGallery
   description: Collection of images from ChitChat
   imagefolder: /assets/chitchat/gallery
