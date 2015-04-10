@@ -24,6 +24,10 @@
     text: The third image
   - name: sidekick-4.jpg
     text: The fourth image
+  - name: sidekick-4.jpg
+    text: The fifth image
+  - name: sidekick-6.jpg
+    text: The sixth image
 - id: findawordGallery
   description: Collection of images from Find A Word
   imagefolder: /assets/find_a_word/gallery
