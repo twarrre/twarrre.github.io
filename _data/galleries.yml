@@ -88,3 +88,11 @@
     text: The second image
   - name: carrot-3.jpg
     text: The third image
+- id: vikingtwelveGallery
+  description: Collection of images from Viking Twelve
+  imagefolder: /assets/viking_twelve/gallery
+  images:
+- id: ijgmlGallery
+  description: Collection of images from I Just Got My L
+  imagefolder: /assets/ijgml/gallery
+  images:
