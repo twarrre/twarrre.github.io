@@ -54,3 +54,7 @@
   images:
   - name: carrot-1.jpg
     text: The first image
+  - name: carrot-2.jpg
+    text: The second image
+  - name: carrot-3.jpg
+    text: The third image
