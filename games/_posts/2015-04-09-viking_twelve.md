@@ -1,7 +1,7 @@
 ---
 layout: game
-title: Viking Twelve: A Space Odyssey
-image: /assets/plant_a_carrot/carrot_banner_small.png
+title: Viking XII: A Space Odyssey
+image: /assets/viking_twelve/carrot_banner_small.png
 desc: "Vikings have found a way to space and now must deals with the aliens in this turn-based strategy game."
 tag: Games
 gallery: vikingtwelveGallery
