@@ -102,6 +102,20 @@
     text: The fourth image
   - name: viking-5.PNG
     text: The fifth image
+  - name: viking-6.PNG
+    text: The sixth image
+  - name: viking-7.PNG
+    text: The seventh image
+  - name: viking-8.PNG
+    text: The eighth image
+  - name: viking-9.PNG
+    text: The ninth image
+  - name: viking-10.PNG
+    text: The tenth image
+  - name: viking-11.PNG
+    text: The eleventh image
+  - name: viking-12.PNG
+    text: The twelfth image
 - id: ijgmlGallery
   description: Collection of images from I Just Got My L
   imagefolder: /assets/ijgml/gallery
