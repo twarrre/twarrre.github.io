@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Trevor Ware
-tagline:          
+tagline:
 url:              http://twarrre.github.io
 paginate:         1
 baseurl:          /
@@ -15,16 +15,16 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:			  
+github:
   repo:           https://github.com/twarrre/twarrre.github.io
-  
-pages_list:       
+
+pages_list:
   About: '/about'
   Games: '/games'
   Software: '/software'
   Art: '/art'
   Blog: '/blog'
-  
+
 twitter_username: twarrre
 github_username:  twarrre
 facebook_username: twarrre
