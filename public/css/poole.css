@@ -465,6 +465,13 @@ a.pagination-item:hover {
 /**
  * Icons
  */
+
+ .logo {
+  float: right;
+  width:128px;
+  height:128px;
+}
+
 .icon-container {
   margin-left: auto;
   margin-right: auto;
@@ -501,7 +508,7 @@ a.pagination-item:hover {
   padding: 3px;
   float: left;
 }
-	
+
 /*
 	menu bar
 */
