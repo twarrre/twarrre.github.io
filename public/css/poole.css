@@ -467,9 +467,9 @@ a.pagination-item:hover {
  */
 
  .logo {
-  float: right;
-  width:128px;
-  height:128px;
+  float: left;
+  width:256px;
+  height:256px;
 }
 
 .icon-container {
