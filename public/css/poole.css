@@ -655,6 +655,7 @@ a.pagination-item:hover {
    text-align: center;
    font-size: 50px;
    padding-top: 0px;
+   padding-bottom: 0px;
  }
 
 }
