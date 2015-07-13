@@ -472,8 +472,11 @@ a.pagination-item:hover {
   height:192px;
 }
 
-#namediv {
-  float: right;
+#sitename{
+  float:right;
+  text-align: right;
+  font-size: 100px;
+  padding-top: 100px;
 }
 
 .icon-container {
