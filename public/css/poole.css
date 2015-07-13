@@ -617,7 +617,7 @@ a.pagination-item:hover {
 #cssmenu.align-right li:first-child a:after {
   display: none;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 812px) {
   #cssmenu ul li {
     float: none;
     display: block;
