@@ -644,8 +644,8 @@ a.pagination-item:hover {
   .logo {
    float:none;
    text-align: center;
-   width:192px;
-   height:192px;
+   min-width: 100%;
+   height: auto;
  }
 
  #sitename{
