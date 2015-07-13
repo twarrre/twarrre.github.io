@@ -639,6 +639,21 @@ a.pagination-item:hover {
   #cssmenu ul li a:before {
     display: none;
   }
+
+  .logo {
+   float:none;
+   text-align: center;
+   width:192px;
+   height:192px;
+ }
+
+ #sitename{
+   float:none;
+   text-align: center;
+   font-size: 30px;
+   padding-top: 10px;
+ }
+
 }
 
 /*
