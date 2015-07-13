@@ -11,11 +11,14 @@
           </a>-->
         <!--</h3>-->
 		<!--<h3 class="masthead-title">-->
-			<div id='cssmenu'>
-        <a href="{{ site.baseurl }}" title="Home">
-          <img class = "logo" src="{{ site.url }}/assets/logo/logo.png" alt="logo">
-        </a>
-				<ul>
+    <div id="logodiv">
+      <a href="{{ site.baseurl }}" title="Home">
+        <img class = "logo" src="{{ site.url }}/assets/logo/logo.png" alt="logo">
+      </a>
+    </div>
+
+		<div id='cssmenu'>
+		    <ul>
 					{% for pageLink in site.pages_list %}
 						{% if pageLink[0] == page.tag %}
 							<li class='active'><a id='menu' href='{{ pageLink[1]  }}'><span>{{ pageLink[0] }}</span></a></li>
@@ -24,7 +27,7 @@
 						{% endif %}
 					{% endfor %}
 				</ul>
-			</div>
+		</div>
 		<!--</h3>-->
       </header>
 
