@@ -472,6 +472,10 @@ a.pagination-item:hover {
   height:192px;
 }
 
+#namediv {
+  float: right;
+}
+
 .icon-container {
   margin-left: auto;
   margin-right: auto;
