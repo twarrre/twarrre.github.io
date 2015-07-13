@@ -621,6 +621,7 @@ a.pagination-item:hover {
   #cssmenu ul li {
     float: none;
     display: block;
+    padding-top: 0px;
   }
   #cssmenu ul li a {
     width: 100%;
@@ -650,8 +651,8 @@ a.pagination-item:hover {
  #sitename{
    float:none;
    text-align: center;
-   font-size: 30px;
-   padding-top: 10px;
+   font-size: 50px;
+   padding-top: 0px;
  }
 
 }
