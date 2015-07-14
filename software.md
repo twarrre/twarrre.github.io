@@ -14,7 +14,7 @@ tag: Software
 					</a>
 				</td>
 				<td>
-					<a href="{{ post.url }}">
+					<a class="list" href="{{ post.url }}">
 						<h3>{{ post.title }}</h3>
 						<p>
 							{{ post.desc }}
