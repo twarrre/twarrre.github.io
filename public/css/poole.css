@@ -475,6 +475,7 @@ a.pagination-item:hover {
   float: left;
   width:166px;
   height:244px;
+  padding-right: 50px;
 }
 
 #sitename{
