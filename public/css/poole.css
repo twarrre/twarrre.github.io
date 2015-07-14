@@ -86,7 +86,7 @@ dd {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #146189;
+  color: #2198d5;
   text-decoration: none;
 }
 a strong {
@@ -483,6 +483,7 @@ a.pagination-item:hover {
   text-align: right;
   font-size: 50px;
   padding-top: 10px;
+  color: #E83F3F;
 }
 
 .icon-container {
