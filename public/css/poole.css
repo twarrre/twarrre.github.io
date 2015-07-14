@@ -43,7 +43,7 @@
 
 @font-face {
     font-family: logoFont;
-    src: url(assets/fonts/Dedecus-BoldItalic.ttf);
+    src: url(/assets/fonts/Dedecus-BoldItalic.ttf);
 }
 
 html,
