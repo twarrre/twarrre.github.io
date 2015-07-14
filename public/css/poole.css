@@ -473,15 +473,15 @@ a.pagination-item:hover {
 
  .logo {
   float: left;
-  width:256px;
-  height:256px;
+  width:166px;
+  height:244px;
 }
 
 #sitename{
   font-family: logoFont;
   float:right;
   text-align: right;
-  font-size: 65px;
+  font-size: 55px;
   padding-top: 10px;
 }
 
