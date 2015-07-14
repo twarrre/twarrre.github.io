@@ -65,7 +65,7 @@ html {
 
 body {
   color: #083349;
-  background-color: #2198d5;
+  background-color: #afd7ec;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -527,7 +527,7 @@ a.pagination-item:hover {
 */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 #cssmenu {
-  background: #2198d5;
+  background: #afd7ec;
   width: auto;
   padding-top: 128px;
   padding-left: 10px;
