@@ -14,12 +14,12 @@ tag: Art
 					</a>
 				</td>
 				<td>
-					<a class="list" href="{{ post.url }}">
-						<h3>{{ post.title }}</h3>
-						<p>
-							{{ post.desc }}
-						</p>
-					</a>
+				<a class="list" href="{{ post.url }}">
+					<h3>{{ post.title }}</h3>
+				</a>
+				<p>
+					{{ post.desc }}
+				</p>
 				</td>
 			</tr>
 		{% endfor %}
