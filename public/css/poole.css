@@ -63,6 +63,11 @@ html {
   }
 }
 
+header{
+  border-bottom: 1px solid #146189;
+  padding-top: 2em;
+}
+
 body {
   color: #083349;
   background-color: #afd7ec;
