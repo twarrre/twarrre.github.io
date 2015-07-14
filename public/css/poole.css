@@ -41,6 +41,11 @@
           box-sizing: border-box;
 }
 
+@font-face {
+    font-family: logoFont;
+    src: url(assets/fonts/Dedecus-BoldItalic.ttf);
+}
+
 html,
 body {
   margin: 0;
@@ -473,6 +478,7 @@ a.pagination-item:hover {
 }
 
 #sitename{
+  font-family: logoFont;
   float:right;
   text-align: right;
   font-size: 50px;
@@ -621,7 +627,7 @@ a.pagination-item:hover {
   #cssmenu{
     padding-top: 0px;
   }
-  
+
   #cssmenu ul li {
     float: none;
     display: block;
