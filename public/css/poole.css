@@ -488,10 +488,10 @@ a.pagination-item:hover {
 
 .list{
   color: #146189;
-  border-bottom: 1px solid #146189;
-  padding-top: 10px;
-  padding-bottom: 10px;
+}
 
+.tableitem{
+  border-bottom: 1px solid #146189;
 }
 
 .icon-container {
