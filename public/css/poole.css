@@ -530,6 +530,7 @@ a.pagination-item:hover {
   background: #AECBFC;
   width: auto;
   padding-top: 128px;
+  float: right;
 }
 #cssmenu ul {
   list-style: none;
