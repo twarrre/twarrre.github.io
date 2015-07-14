@@ -473,8 +473,8 @@ a.pagination-item:hover {
 
  .logo {
   float: left;
-  width:192px;
-  height:192px;
+  width:224px;
+  height:224px;
 }
 
 #sitename{
@@ -530,7 +530,7 @@ a.pagination-item:hover {
   background: #AECBFC;
   width: auto;
   padding-top: 128px;
-  padding-left: 100px;
+  padding-left: 128px;
 }
 #cssmenu ul {
   list-style: none;
@@ -627,6 +627,7 @@ a.pagination-item:hover {
 @media screen and (max-width: 812px) {
   #cssmenu{
     padding-top: 0px;
+    padding-left: 0px;
   }
 
   #cssmenu ul li {
