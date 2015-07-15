@@ -2,7 +2,7 @@
 layout: game
 title: "Sidekick Tales: Limbitless"
 image: /assets/sidekick/sidekick_banner_small.png
-desc: "You must become a hero to save Supman."
+desc: "Become a hero to save the legendary Supman."
 tag: Games
 gallery: sidekickGallery
 ---
