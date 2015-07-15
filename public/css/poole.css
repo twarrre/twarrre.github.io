@@ -278,6 +278,7 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
+  border-collapse:collapse;
   /*border: 1px solid #e5e5e5;*/
   /*border-collapse: collapse;*/
 }
@@ -492,7 +493,7 @@ a.pagination-item:hover {
   color: #146189;
 }
 
-.tableitem{
+.tableitem td{
   border-bottom: 1px solid #146189;
 }
 
