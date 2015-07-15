@@ -494,7 +494,7 @@ a.pagination-item:hover {
 }
 
 .tableitem td{
-  border-bottom: 1px solid #146189;
+  border-top: 1px solid #146189;
 }
 
 .icon-container {
