@@ -7,8 +7,8 @@ tag: Games
 <div class="games">
 		<table>
 		{% for post in site.categories.games%}
+		<div class="tableitem">
 			<tr>
-			<div class="tableitem">
 				<td style="Width: 200px">
 					<a href="{{ post.url }}">
 						<img src="{{ post.image }}" height="200px" width="200px" border="1px"/>
@@ -22,8 +22,8 @@ tag: Games
 						{{ post.desc }}
 					</p>
 				</td>
-				</div>
 			</tr>
+			</div>
 		{% endfor %}
 	</table>
 </div>
