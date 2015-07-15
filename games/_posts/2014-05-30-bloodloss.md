@@ -2,7 +2,7 @@
 layout: game
 title: Blood Loss
 image: /assets/blood_loss/blood_loss_banner_small.png
-desc: "A first-person dungeon crawler, where you try to get to the farthest labyrinth possible before your blood runs dry."
+desc: "You must escape before your blood runs dry."
 tag: Games
 gallery: bloodlossGallery
 ---
@@ -11,7 +11,7 @@ You wake up in a strange labyrinth with a large bleeding wound on your goat-like
 <div class="video">
 	<iframe src="//www.youtube.com/embed/KCCQRT78dII" frameborder="0" allowfullscreen="1"></iframe>
 </div>
-	
+
 This game was developed in a month by a team of four as an industry project at BCIT. My role included programming the shaders to incorporate normal mapping and point lighting, as well as programming and working with the art assets in the game.
 
 ###Developed With:
