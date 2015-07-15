@@ -2,11 +2,11 @@
 layout: game
 title: "Sidekick Tales: Limbitless"
 image: /assets/sidekick/sidekick_banner_small.png
-desc: "A sidekick turned-hero must save the legendary Supman."
+desc: "You must become a hero to save Supman."
 tag: Games
 gallery: sidekickGallery
 ---
-You are the sidekick of the legendary Sup man, protector of the universe. But one day, Sup Man's arch enemies attack both of you and capture Sup Man. They split him into parts that they hid all over the world. Luckily you were able to save one of his parts in your escape, however you lost all of you limbs in the process. Now it is up to you to become the hero and find Sup Man's parts in order to bring peace back to the universe. But how will you do this without any limbs? Fortunately you can borrow some limbs from the local wildlife!
+You are the sidekick of the legendary Supman, protector of the universe. But one day, Sup Man's arch enemies attack both of you and capture Sup Man. They split him into parts that they hid all over the world. Luckily you were able to save one of his parts in your escape, however you lost all of you limbs in the process. Now it is up to you to become the hero and find Sup Man's parts in order to bring peace back to the universe. But how will you do this without any limbs? Fortunately you can borrow some limbs from the local wildlife!
 
 <div class="video">
 	<iframe src="//www.youtube.com/embed/aiNcoj9zleA" frameborder="0" allowfullscreen="1"></iframe>
