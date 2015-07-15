@@ -10,7 +10,7 @@ tag: Games
 			<tr>
 				<td style="Width: 200px">
 					<a href="{{ post.url }}">
-						<img src="{{ post.image }}" height="200px" width="200px" border="1px"/>
+						<img src="{{ post.image }}" height="192px" width="192px" border="1px"/>
 					</a>
 				</td>
 				<td>
