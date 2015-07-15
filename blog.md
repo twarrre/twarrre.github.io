@@ -19,7 +19,7 @@ tag: Blog
 				<h3>{{ post.title }}</h3>
 			</a>
 			<p>
-				{{ post.desc }}
+				{{ post.date }}
 			</p>
 			</div>
 		</td>

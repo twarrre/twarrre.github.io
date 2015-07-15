@@ -2,7 +2,7 @@
 layout: software
 title: Wave Editor
 image: /assets/wave_editor/wave_editor_banner_small.png
-desc: "Analyse, filter, and edit WAVE files by either loading one in, or recoding one yourself."
+desc: "Record, analyse, filter, and edit sound files."
 tag: Software
 gallery: waveeditorGallery
 ---

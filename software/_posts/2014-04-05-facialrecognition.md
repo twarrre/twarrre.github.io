@@ -2,7 +2,7 @@
 layout: software
 title: Facial Recognition
 image: /assets/facial_recognition/facial_recognition_banner_small.png
-desc: "Load in faces and the program will tell you if that face is in it's face bank."
+desc: "See who's face you match most with."
 tag: Software
 gallery: facialrecognitionGallery
 ---

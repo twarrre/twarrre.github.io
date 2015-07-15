@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World
+image: /assets/ijgml/ijgml_banner_small.png
+date: "December 26, 2014"
 tag: blog
 ---
 Welcome to my personal blog and portfolio. On this site you will find my portfolio of work including my games, software, and art that I have developed and created. In addition I will be keeping a blog that will track all of the topics and assignments that I will be completing in the BCIT (British Columbia Institute of Technology) Video Games Development program.
