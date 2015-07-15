@@ -493,9 +493,8 @@ a.pagination-item:hover {
   color: #146189;
 }
 
-.tableitem td{
+.tableitem{
   border-top: 1px solid #146189;
-  padding-bottom: 20px;
 }
 
 .icon-container {
