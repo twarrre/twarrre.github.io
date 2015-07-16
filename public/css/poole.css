@@ -66,10 +66,18 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   color: #083349;
+  background-image: url("/assets/logo/splatter.png");
   background-color: #afd7ec;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+
+/*#splatter{
+    bottom: 0px;
+    width: 100%;
+    height: auto;
+     z-index: -1;
+}*/
 
 /* Lists */
 ul, ol, dl {
@@ -478,13 +486,6 @@ a.pagination-item:hover {
   float: left;
   width:196px;
   height:196px;
-}
-
-#splatter{
-    bottom: 0px;
-    width: 100%;
-    height: auto;
-     z-index: -1;
 }
 
 #sitename{
