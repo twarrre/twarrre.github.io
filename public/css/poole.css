@@ -550,7 +550,8 @@ a.pagination-item:hover {
 */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 #cssmenu {
-  background: #afd7ec;
+  /*background: #afd7ec;*/
+  background-color : transparent;
   width: auto;
   padding-top: 128px;
   padding-left: 10px;
