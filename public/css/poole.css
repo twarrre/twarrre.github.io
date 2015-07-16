@@ -68,6 +68,8 @@ body {
   color: #083349;
   background-image: url("/assets/logo/splatter.png");
   background-color: #afd7ec;
+  background-repeat: no-repeat;
+  background-position: center bottom;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
