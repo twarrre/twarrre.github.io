@@ -70,6 +70,8 @@ body {
   background-color: #afd7ec;
   background-repeat: no-repeat;
   background-position: center bottom;
+  background-size: cover;
+  background-attachment: fixed;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
