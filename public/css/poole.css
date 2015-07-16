@@ -480,6 +480,12 @@ a.pagination-item:hover {
   height:196px;
 }
 
+#splatter{
+    bottom: 0px;
+    width: 100%;
+    height: auto;
+}
+
 #sitename{
   font-family: logoFont;
   float:right;
