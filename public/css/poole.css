@@ -69,7 +69,7 @@ body {
   background-image: url("/assets/logo/splatter.png");
   background-color: #afd7ec;
   background-repeat: no-repeat;
-  background-position: center bottom;
+  background-position: left bottom;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
