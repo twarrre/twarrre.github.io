@@ -13,7 +13,7 @@ Have any questions, feedback, or suggestions? Feel free to send me an email usin
     <textarea name="message" class="feedback-input" placeholder="Message"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="//twarrre.github.io/thanks.html" />
-    <input type="checkbox" name="cc"> Receive copy of email.
+    <input type="checkbox" class="feedback-input" name="cc"> Receive copy of email.
     <input type="hidden" name="_cc" value=""/>
     <input type="submit" value="Send">
 </form>
