@@ -782,13 +782,13 @@ form { max-width:100%; margin:50px auto; }
 
 .feedback-input {
   color:black;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight:500;
   font-size: 18px;
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #146189;
+  border:2px solid #2198d5;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -808,7 +808,7 @@ textarea {
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
-  background:#146189;
+  background:#2198d5;
   border-radius:5px;
   border:0;
   cursor:pointer;
