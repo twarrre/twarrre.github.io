@@ -797,6 +797,16 @@ form { max-width:100%; margin:50px auto; }
   outline:0;
 }
 
+.feedback-input-checkbox {
+  font-family: 'Open Sans', sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  padding: 13px;
+  margin-bottom: 15px;
+}
 .feedback-input:focus { border:2px solid #083349; }
 
 textarea {
