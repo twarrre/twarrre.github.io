@@ -46,12 +46,12 @@
           return false;
         }
 
-        var checkbox =  document.forms["contactform"]["cbox"];
+        var checkbox =  document.forms["contactform"]["cc"];
 
         if (checkbox.checked)
         {
-            alert(cc.value);
             var cc = document.forms["contactform"]["_cc"];
+            alert(cc.value);
             cc.setAttribute('value', document.forms['contactform']["_replyto"].value);
             alert(cc.value);
          }
