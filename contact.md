@@ -4,7 +4,6 @@ title: Contact
 tag: Contact
 ---
 <div class="contact">
-
 Have any questions, feedback, or suggestions? Feel free to send me an email using the form bellow.
 
 <form id="contactform" method="POST">
