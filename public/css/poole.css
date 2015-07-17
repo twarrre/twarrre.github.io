@@ -590,7 +590,7 @@ a.pagination-item:hover {
   color: #146189;
   text-decoration: none;
   display: block;
-  padding: 15px 20px;
+  padding: 15px 15px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
