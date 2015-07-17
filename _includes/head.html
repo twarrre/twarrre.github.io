@@ -47,13 +47,13 @@
         }
 
         var checkbox =  document.forms["contactform"]["cbox"];
-        alert(checkbox);
-        alert(checkbox.checked);
 
-        if (checkbox.checked) {
-            alert(checkbox.checked);
+        if (checkbox.checked)
+        {
+            alert(cc.value);
             var cc = document.forms["contactform"]["_cc"];
             cc.setAttribute('value', document.forms['contactform']["_replyto"].value);
+            alert(cc.value);
          }
       }
 
