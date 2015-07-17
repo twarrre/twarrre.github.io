@@ -5,7 +5,6 @@ tag: Contact
 ---
 <div class="contact">
 Have any questions, feedback, or suggestions? Feel free to send me an email using the form below.
-
 <form id="contactform" name='contactform' onsubmit="return validateForm()" method="POST">
     <input type="text" name="name" class="feedback-input" placeholder="Name">
     <input type="email" name="_replyto" class="feedback-input" placeholder="Email">
@@ -13,7 +12,7 @@ Have any questions, feedback, or suggestions? Feel free to send me an email usin
     <textarea name="message" class="feedback-input" placeholder="Message"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="//twarrre.github.io/thanks.html" />
-    <input type="checkbox" class="css-checkbox" name="cc"> Receive copy of email.
+    <input type="checkbox" name="cc" id="checkboxCC" class="css-checkbox"> <label for="checkboxCC" class="css-label">Receive copy of email.</label>
     <input type="hidden" name="_cc" value=""/>
     <input type="submit" value="Send">
 </form>
