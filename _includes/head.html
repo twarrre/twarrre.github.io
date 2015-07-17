@@ -46,5 +46,12 @@
           return false;
         }
       }
+
+      var ccInput =  document.getElementById('ccValue');
+
+      if (document.getElementById('cc').checked) {
+             ccInput.setAttribute('value', document.forms['contactform']["_replyto"].value);
+       }
+
   </script>
 </head>
