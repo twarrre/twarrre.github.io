@@ -4,7 +4,7 @@ title: Contact
 tag: Contact
 ---
 <div class="contact">
-Have any questions, feedback, or suggestions? Feel free to send me an email using the form bellow.
+Have any questions, feedback, or suggestions? Feel free to send me an email using the form bellow. 1
 
 <form id="contactform" name='contactform' onsubmit="return validateForm()" method="POST">
     <input type="text" name="name" class="feedback-input" placeholder="Name">
