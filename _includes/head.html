@@ -47,11 +47,12 @@
         }
       }
 
-      var ccInput =  document.getElementById('ccValue');
+      var checkbox =  document.forms["contactform"]["cbox"];
 
-      if (document.getElementById('cc').checked) {
-          alert(ccInput);
-             ccInput.setAttribute('value', document.forms['contactform']["_replyto"].value);
+      if (checkbox.checked) {
+          alert(checkbox.checked);
+          var cc = document.forms["contactform"]["_cc"];
+          cc.setAttribute('value', document.forms['contactform']["_replyto"].value);
        }
 
   </script>
