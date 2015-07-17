@@ -45,17 +45,17 @@
           alert("Please do not send empty emails.");
           return false;
         }
+
+        var checkbox =  document.forms["contactform"]["cbox"];
+        alert(checkbox);
+        alert(checkbox.checked);
+
+        if (checkbox.checked) {
+            alert(checkbox.checked);
+            var cc = document.forms["contactform"]["_cc"];
+            cc.setAttribute('value', document.forms['contactform']["_replyto"].value);
+         }
       }
-
-      var checkbox =  document.forms["contactform"]["cbox"];
-      alert(checkbox);
-      alert(checkbox.checked);
-
-      if (checkbox.checked) {
-          alert(checkbox.checked);
-          var cc = document.forms["contactform"]["_cc"];
-          cc.setAttribute('value', document.forms['contactform']["_replyto"].value);
-       }
 
   </script>
 </head>
