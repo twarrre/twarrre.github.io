@@ -26,4 +26,21 @@
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+
+  <script>
+    function validateForm() {
+      var x = document.forms["contactform"]["name"].value;
+      var y = document.forms['contactform']["_replyto"].value;
+      var z = document.forms["contactform"]["message"].value;
+
+      x = x.replace(/\s/g, '');
+      y = y.replace(/\s/g, '')
+      z = z.replace(/\s/g, '')
+      
+      if (x == null || x == "" || y == null || y == "" || z == null || z == "") {
+          alert("Please do not send and empty email.");
+          return false;
+        }
+      }
+  </script>
 </head>

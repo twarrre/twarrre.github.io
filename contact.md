@@ -6,7 +6,7 @@ tag: Contact
 <div class="contact">
 Have any questions, feedback, or suggestions? Feel free to send me an email using the form bellow.
 
-<form id="contactform" method="POST">
+<form id="contactform" name='contactform' onsubmit="return validateForm()" method="POST">
     <input type="text" name="name" class="feedback-input" placeholder="Name">
     <input type="email" name="_replyto" class="feedback-input" placeholder="Email">
     <input type="hidden" name="_subject" value="Portfolio Contact" />
