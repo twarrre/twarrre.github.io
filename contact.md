@@ -11,7 +11,6 @@ tag: Contact
     <input type="hidden" name="_subject" value="Portfolio Contact" />
     <textarea name="message" placeholder="Message"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_next" value="//twarrre.github.io/thanks" />
     <input type="submit" value="Send">
 </form>
 <script>
