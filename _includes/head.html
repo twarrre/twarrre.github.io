@@ -36,9 +36,13 @@
       x = x.replace(/\s/g, '');
       y = y.replace(/\s/g, '')
       z = z.replace(/\s/g, '')
-      
+
+      x = x.replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()]/g, "")
+      y = y.replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()]/g, "")
+      z = z.replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()]/g, "")
+
       if (x == null || x == "" || y == null || y == "" || z == null || z == "") {
-          alert("Please do not send and empty email.");
+          alert("Please do not send an empty email.");
           return false;
         }
       }
