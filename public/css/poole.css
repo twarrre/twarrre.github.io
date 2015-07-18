@@ -803,7 +803,6 @@ input[type=checkbox].checkboxCC {
 
 input[type=checkbox].checkboxCC + label.labelCC {
 	padding-left:30px;
-  padding-bottom: 20px;
 	height:25px;
 	display:inline-block;
 	line-height:25px;
@@ -844,7 +843,7 @@ textarea {
   cursor:pointer;
   color: #083349;
   font-size:24px;
-  padding-top:10px;
+  padding-top:23px;
   padding-bottom:10px;
   transition: all 0.3s;
   margin-top:-4px;
