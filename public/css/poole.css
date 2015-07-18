@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   /*color: #313131;*/
   text-rendering: optimizeLegibility;
-  color: #083349;
+  color: #146189;
 }
 h1 {
   margin-top: 0rem;
@@ -886,12 +886,12 @@ textarea {
 #fourofour{
   text-align: center;
   font-family: bitFont;
-  color: #083349;
+  color: #146189;
   font-size: 63px;
 }
 #pagenotfound{
   text-align: center;
   font-family: bitFont;
-  color: #083349;
+  color: #146189;
   font-size: 45px;
 }
