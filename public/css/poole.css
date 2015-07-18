@@ -802,9 +802,9 @@ input[type=checkbox].checkboxCC {
 }
 
 input[type=checkbox].checkboxCC + label.labelCC {
-	padding-left:55px;
+	padding-left:30px;
   padding-bottom: 20px;
-	height:75px;
+	height:25px;
 	display:inline-block;
 	line-height:25px;
 	background-repeat:no-repeat;
@@ -814,11 +814,11 @@ input[type=checkbox].checkboxCC + label.labelCC {
 }
 
 input[type=checkbox].checkboxCC:checked + label.labelCC {
-	background-position: 0 -50px;
+	background-position: 0 -25px;
 }
 
 label.labelCC {
-  background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_3543df1f4ce7453307f6781c8b6c5265.png);
+  background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_d9a55f2b73e42f06e7fbc36d8d033729.png);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
