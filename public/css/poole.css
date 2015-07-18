@@ -851,3 +851,24 @@ textarea {
   font-weight:700;
 }
 [type="submit"]:hover { background:#083349; color:#afd7ec; }
+
+#icon-name{
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: 22px 22px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+#icon-email{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: 22px 22px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+
+#icon-comment{
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 22px 22px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
