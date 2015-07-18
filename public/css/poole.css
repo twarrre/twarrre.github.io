@@ -894,16 +894,5 @@ textarea {
 
 .404 {
   color: #2198d5;
-  font-family: bitFont;
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1;
-  /*color: #313131;*/
-  text-rendering: optimizeLegibility;
   text-align: center;
-  font-size: 36px;
-}
-
-.404 #big {
-  font-size: 54px;
 }
