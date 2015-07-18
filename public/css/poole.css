@@ -131,6 +131,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
   color: #146189;
 }
+
 h1 {
   margin-top: 0rem;
   font-size: 2rem;
@@ -894,4 +895,8 @@ textarea {
   font-family: bitFont;
   color: #146189;
   font-size: 45px;
+}
+
+#emailimg{
+  text-align: center;
 }
