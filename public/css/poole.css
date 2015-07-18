@@ -798,7 +798,7 @@ form { max-width:100%; margin:50px auto; }
 }
 
 input[type=checkbox].checkboxCC {
-	position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
+	position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 25 25 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
 }
 
 input[type=checkbox].checkboxCC + label.labelCC {
