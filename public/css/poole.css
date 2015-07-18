@@ -112,22 +112,6 @@ a strong {
   color: inherit;
 }
 
-.404 {
-  color: #2198d5;
-  font-family: bitFont;
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1;
-  /*color: #313131;*/
-  text-rendering: optimizeLegibility;
-  text-align: center;
-  font-size: 36px;
-}
-
-.404 #big {
-  font-size: 54px;
-}
-
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover  :not(#menu),
 a:focus  :not(#menu){
@@ -905,4 +889,21 @@ textarea {
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
+}
+
+
+.404 {
+  color: #2198d5;
+  font-family: bitFont;
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1;
+  /*color: #313131;*/
+  text-rendering: optimizeLegibility;
+  text-align: center;
+  font-size: 36px;
+}
+
+.404 #big {
+  font-size: 54px;
 }
