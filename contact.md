@@ -10,11 +10,12 @@ Have any questions, feedback, or suggestions? Feel free to send me an email usin
     <input type="email" name="_replyto" class="feedback-input" placeholder="Email">
     <input type="hidden" name="_subject" value="Portfolio Contact" />
     <textarea name="message" class="feedback-input" placeholder="Message"></textarea>
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_next" value="//twarrre.github.io/thanks.html" />
 
     <input type="checkbox" name="cc" id="cbcc" class="checkboxCC"/>
       <label for="cbcc" class="labelCC">Receive copy of the email.</label>
+
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="//twarrre.github.io/thanks.html" />
 
     <input type="hidden" name="_cc" value=""/>
     <input type="submit" value="Send">

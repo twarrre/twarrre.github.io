@@ -803,7 +803,7 @@ input[type=checkbox].checkboxCC {
 
 input[type=checkbox].checkboxCC + label.labelCC {
 	padding-left:30px;
-  padding-bottom: 20px;
+  padding-bottom: 33px;
 	height:25px;
 	display:inline-block;
 	line-height:25px;
