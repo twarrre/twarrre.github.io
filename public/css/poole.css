@@ -46,6 +46,11 @@
     src: url(/assets/fonts/INVASION2000.TTF);
 }
 
+@font-face {
+    font-family: bitFont;
+    src: url(/assets/fonts/8-BIT WONDER.TTF);
+}
+
 html,
 body {
   margin: 0;
@@ -116,7 +121,7 @@ a:focus  :not(#menu){
 
 /* Headings */
 h1{
-    font-family: logoFont;
+    font-family: bitFont;
     margin-bottom: .5rem;
     font-weight: bold;
     line-height: 1;
@@ -125,7 +130,8 @@ h1{
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Ubuntu', sans-serif;
+  /*font-family: 'Ubuntu', sans-serif;*/
+  font-family: bitFont;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1;
