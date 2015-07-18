@@ -797,13 +797,13 @@ form { max-width:100%; margin:50px auto; }
   outline:0;
 }
 
-input[type=checkbox].css-checkbox {
+input[type=checkbox].checkboxCC {
 	position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
 }
 
-input[type=checkbox].css-checkbox + label.css-label {
+input[type=checkbox].checkboxCC + label.labelCC {
 	padding-left:55px;
-	height:25px; 
+	height:25px;
 	display:inline-block;
 	line-height:50px;
 	background-repeat:no-repeat;
@@ -812,11 +812,11 @@ input[type=checkbox].css-checkbox + label.css-label {
 	cursor:pointer;
 }
 
-input[type=checkbox].css-checkbox:checked + label.css-label {
+input[type=checkbox].checkboxCC:checked + label.labelCC {
 	background-position: 0 -50px;
 }
 
-label.css-label {
+label.labelCC {
   background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_3543df1f4ce7453307f6781c8b6c5265.png);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
