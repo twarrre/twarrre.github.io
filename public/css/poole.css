@@ -121,16 +121,7 @@ a:focus  :not(#menu){
 }
 
 /* Headings */
-h1{
-    font-family: bitFont;
-    margin-bottom: .5rem;
-    font-weight: bold;
-    line-height: 1;
-    /*color: #313131;*/
-    text-rendering: optimizeLegibility;
-}
-
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   /*font-family: 'Ubuntu', sans-serif;*/
   font-family: bitFont;
   margin-bottom: .5rem;
@@ -138,6 +129,7 @@ h2, h3, h4, h5, h6 {
   line-height: 1;
   /*color: #313131;*/
   text-rendering: optimizeLegibility;
+  color: #2198d5;
 }
 h1 {
   margin-top: 0rem;
@@ -891,7 +883,15 @@ textarea {
 	background-repeat: no-repeat;
 }
 
-
-.404 {
+#fourofour{
+  text-align: center;
+  font-family: bitFont;
   color: #2198d5;
+  font-size: 54px;
+}
+#pagenotfound{
+  text-align: center;
+  font-family: bitFont;
+  color: #2198d5;
+  font-size: 36px;
 }
