@@ -790,7 +790,7 @@ form { max-width:100%; margin:50px auto; }
   background-color: transparent;
   border:2px solid #2198d5;
   transition: all 0.3s;
-  padding: 13px;
+  padding: 13px 0px 0px 60px;
   margin-bottom: 15px;
   width:100%;
   box-sizing: border-box;
@@ -854,21 +854,21 @@ textarea {
 
 #icon-name{
 	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
-	background-size: 22px 22px;
+	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #icon-email{
 	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
-	background-size: 22px 22px;
+	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #icon-comment{
 	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
-	background-size: 22px 22px;
+	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }

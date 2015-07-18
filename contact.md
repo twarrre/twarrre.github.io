@@ -7,7 +7,7 @@ tag: Contact
 Have any questions, feedback, or suggestions? Feel free to send me an email using the form below.
 <form id="contactform" name='contactform' onsubmit="return validateForm()" method="POST">
     <input type="text" name="name" class="feedback-input" id="icon-name" placeholder="Name">
-    <input type="email" name="_replyto" class="feedback-input" id="icon-email"placeholder="Email">
+    <input type="email" name="_replyto" class="feedback-input" id="icon-email" placeholder="Email">
     <input type="hidden" name="_subject" value="Portfolio Contact" />
     <textarea name="message" class="feedback-input" id="icon-comment" placeholder="Message"></textarea>
 
