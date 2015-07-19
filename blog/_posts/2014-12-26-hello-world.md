@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-image: /assets/ijgml/ijgml_banner_small.png
+image: /assets/ijgml/ijgml_banner_small.jpg
 date: "December 26, 2014"
 tag: blog
 ---

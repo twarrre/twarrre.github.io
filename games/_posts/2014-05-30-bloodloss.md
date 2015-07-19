@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Blood Loss
-image: /assets/blood_loss/blood_loss_banner_small.png
+image: /assets/blood_loss/blood_loss_banner_small.jpg
 desc: "Escape before your blood runs dry."
 tag: Games
 gallery: bloodlossGallery

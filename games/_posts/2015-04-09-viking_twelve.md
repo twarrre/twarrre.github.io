@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "Viking XII: A Space Odyssey"
-image: /assets/viking_twelve/viking_banner_small.png
+image: /assets/viking_twelve/viking_banner_small.jpg
 desc: "Vikings and Grayliens clash in a war of hats."
 tag: Games
 gallery: vikingGallery

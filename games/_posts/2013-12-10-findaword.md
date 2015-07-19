@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Find A Word
-image: /assets/find_a_word/find_a_word_banner_small.png
+image: /assets/find_a_word/find_a_word_banner_small.jpg
 desc: "An endless amount of words to find."
 tag: Games
 gallery: findawordGallery

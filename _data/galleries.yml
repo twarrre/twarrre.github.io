@@ -6,13 +6,13 @@
   description: Collection of images from Cluck
   imagefolder: /assets/cluck/gallery
   images:
-  - name: cluck-1.png
+  - name: cluck-1.jpg
     text: The first image
-  - name: cluck-2.png
+  - name: cluck-2.jpg
     text: The second image
-  - name: cluck-3.png
+  - name: cluck-3.jpg
     text: The third image
-  - name: cluck-4.png
+  - name: cluck-4.jpg
     text: The fourth image
   - name: cluck-5.jpg
     text: The fifth image
@@ -36,19 +36,19 @@
   description: Collection of images from Find A Word
   imagefolder: /assets/find_a_word/gallery
   images:
-  - name: word-1.png
+  - name: word-1.jpg
     text: The first image
-  - name: word-2.png
+  - name: word-2.jpg
     text: The second image
-  - name: word-3.png
+  - name: word-3.jpg
     text: The third image
-  - name: word-4.png
+  - name: word-4.jpg
     text: The fourth image
-  - name: word-5.png
+  - name: word-5.jpg
     text: The fifth image
-  - name: word-6.png
+  - name: word-6.jpg
     text: The sixth image
-  - name: word-7.png
+  - name: word-7.jpg
     text: The seventh image
 - id: imagemorpherGallery
   description: Collection of images from the Image Morpher
@@ -66,13 +66,13 @@
   description: Collection of images of Teddie
   imagefolder: /assets/teddie/gallery
   images:
-  - name: teddie-1.png
+  - name: teddie-1.jpg
     text: The first image
-  - name: teddie-2.png
+  - name: teddie-2.jpg
     text: The second image
-  - name: teddie-3.png
+  - name: teddie-3.jpg
     text: The third image
-  - name: teddie-4.png
+  - name: teddie-4.jpg
     text: The fourth image
 - id: chitchatGallery
   description: Collection of images from ChitChat
@@ -92,29 +92,29 @@
   description: Collection of images from Viking Twelve
   imagefolder: /assets/viking_twelve/gallery
   images:
-  - name: viking-1.PNG
+  - name: viking-1.jpg
     text: The first image
-  - name: viking-2.PNG
+  - name: viking-2.jpg
     text: The second image
-  - name: viking-3.PNG
+  - name: viking-3.jpg
     text: The third image
-  - name: viking-4.PNG
+  - name: viking-4.jpg
     text: The fourth image
-  - name: viking-5.PNG
+  - name: viking-5.jpg
     text: The fifth image
-  - name: viking-6.PNG
+  - name: viking-6.jpg
     text: The sixth image
-  - name: viking-7.PNG
+  - name: viking-7.jpg
     text: The seventh image
-  - name: viking-8.PNG
+  - name: viking-8.jpg
     text: The eighth image
-  - name: viking-9.PNG
+  - name: viking-9.jpg
     text: The ninth image
-  - name: viking-10.PNG
+  - name: viking-10.jpg
     text: The tenth image
-  - name: viking-11.PNG
+  - name: viking-11.jpg
     text: The eleventh image
-  - name: viking-12.PNG
+  - name: viking-12.jpg
     text: The twelfth image
 - id: ijgmlGallery
   description: Collection of images from I Just Got My L
