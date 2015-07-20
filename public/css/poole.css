@@ -511,6 +511,11 @@ a.pagination-item:hover {
   color: #046E61;
 }
 
+#aboutimg{
+  float:left;
+  margin: 0px 15px 15px 0px;
+}
+
 .list{
   color: #146189;
 }
@@ -716,10 +721,6 @@ a.pagination-item:hover {
 
 }
 
-#aboutimg{
-  float:left;
-  margin: 0px 15px 15px 0px;
-}
 /*
 Grid for images
 */
