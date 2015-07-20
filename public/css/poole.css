@@ -929,6 +929,14 @@ figcaption {
     font-family: 'Open Sans', sans-serif;
     color: #083349;
 }
+
 figure {
     padding: 5px;
 }
+
+/*
+<figure>
+  <img class="blogimg" src="http://lorempixel.com/100/100/nature/1/" />
+  <figcaption>This is a test image.</figcaption>
+</figure>
+*/

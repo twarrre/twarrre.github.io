@@ -11,11 +11,6 @@ Yes, it has been a while since I last posted. In January, school took over and I
 
 From now on I am going to try and make a blog post once a week, every Friday. In these posts I will cover what I learned in school that week, progress on my assignments, and progress on our term game.
 
-<figure>
-  <img class="blogimg" src="http://lorempixel.com/100/100/nature/1/" />
-  <figcaption>This is a test image.</figcaption>
-</figure>
-
 Since school is not starting until September, I will be posting unrelated blog posts. I thought it would be a good idea to get into the habit of writing posts weekly and it gives me a good opportunity to practice my writing for next term. The schedule for my planned blog posts include:
 
 * July 24 - Thank You Iwata-san
