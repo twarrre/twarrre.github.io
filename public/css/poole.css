@@ -916,3 +916,18 @@ textarea {
     margin-left: auto;
     margin-right: auto;
 }
+
+.blogimg {
+  min-width: 100%;
+  height: auto;
+}
+
+figcaption {
+    margin: 10px 0 0 0;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #083349;
+}
+figure {
+    padding: 5px;
+}
