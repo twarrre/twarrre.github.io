@@ -74,6 +74,12 @@
     text: The third image
   - name: teddie-4.jpg
     text: The fourth image
+  - name: teddie-5.jpg
+    text: The diffuse map I created for Teddie.
+  - name: teddie-6.jpg
+    text: The normal map I created for Teddie.
+  - name: teddie-7.jpg
+    text: The specular map I created for Teddie.
 - id: chitchatGallery
   description: Collection of images from ChitChat
   imagefolder: /assets/chitchat/gallery
