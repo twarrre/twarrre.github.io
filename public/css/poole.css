@@ -842,7 +842,7 @@ input[type=checkbox].checkboxCC:checked + label.labelCC {
 }
 
 label.labelCC {
-	background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_cc296ad587ae0b3cd1df9e447306aa57.png);
+	background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_e53aa289f90ae9c9fd6666b95468dd91.png);
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-khtml-user-select: none;
@@ -853,7 +853,7 @@ label.labelCC {
 
 #cbox
 {
-  padding-bottom: 30px;
+  padding-bottom: 25px;
 }
 
 .feedback-input:focus { border:2px solid #083349; }
