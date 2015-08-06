@@ -822,17 +822,17 @@ form { max-width:100%; margin:50px auto; }
 }
 
 input[type=checkbox].checkboxCC {
-	position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 25 25 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
+	position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
 }
 
 input[type=checkbox].checkboxCC + label.labelCC {
 	padding-left:30px;
-  padding-bottom: 33px;
-	height:25px;
+	height:25px; 
 	display:inline-block;
 	line-height:25px;
 	background-repeat:no-repeat;
 	background-position: 0 0;
+	font-size:25px;
 	vertical-align:middle;
 	cursor:pointer;
 }
@@ -842,13 +842,13 @@ input[type=checkbox].checkboxCC:checked + label.labelCC {
 }
 
 label.labelCC {
-  background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_d9a55f2b73e42f06e7fbc36d8d033729.png);
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+	background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_cc296ad587ae0b3cd1df9e447306aa57.png);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
 .feedback-input:focus { border:2px solid #083349; }
