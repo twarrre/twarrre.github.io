@@ -824,7 +824,7 @@ form { max-width:100%; margin:50px auto; }
 #cbox
 {
   padding: 13px;
-  margin-bottom: 15px;
+  float:left;
 }
 
 input[type=checkbox].checkboxCC {
