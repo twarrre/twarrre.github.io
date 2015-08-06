@@ -821,12 +821,6 @@ form { max-width:100%; margin:50px auto; }
   outline:0;
 }
 
-#cbox
-{
-  padding: 13px;
-  float:left;
-}
-
 input[type=checkbox].checkboxCC {
 	position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
 }
@@ -856,6 +850,11 @@ label.labelCC {
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
+}
+
+#cbox
+{
+  padding-bottom: 13px;
 }
 
 .feedback-input:focus { border:2px solid #083349; }
