@@ -11,8 +11,10 @@ Have any questions, feedback, or suggestions? Feel free to send me an email usin
     <input type="hidden" name="_subject" value="Portfolio Contact" />
     <textarea name="message" class="feedback-input" id="icon-comment" placeholder="Message"></textarea>
 
-    <!--<input type="checkbox" name="cc" id="cbcc" class="checkboxCC"/>
-      <label for="cbcc" class="labelCC">Receive copy of the email.</label>-->
+    <div id="cbox">
+		<input type="checkbox" name="cc" id="cbcc" class="checkboxCC"/>
+		<label for="cbcc" class="labelCC">Receive copy of the email.</label>
+	 </div>
 
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="//twarrre.github.io/thanks.html" />
