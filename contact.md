@@ -18,8 +18,8 @@ Have any questions, feedback, or suggestions? Feel free to send me an email usin
     <input type="hidden" name="_next" value="//twarrre.github.io/thanks.html" />
 
     <input type="hidden" name="_cc" value=""/>
-	<br>
-    <input type="submit" value="Send">
+	<!--<br>
+    <input type="submit" value="Send">-->
 </form>
 <script>
     var contactform =  document.getElementById('contactform');
