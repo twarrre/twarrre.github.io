@@ -827,7 +827,6 @@ input[type=checkbox].checkboxCC {
 
 input[type=checkbox].checkboxCC + label.labelCC {
 	padding-left:30px;
-	padding-bottom: 30px;
 	height:25px; 
 	display:inline-block;
 	line-height:25px;
