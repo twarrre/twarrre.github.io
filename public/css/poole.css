@@ -842,6 +842,7 @@ input[type=checkbox].checkboxCC:checked + label.labelCC {
 }
 
 label.labelCC {
+	padding-bottom: 20px;
 	background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_cc296ad587ae0b3cd1df9e447306aa57.png);
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
