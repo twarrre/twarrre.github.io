@@ -7,6 +7,7 @@ layout: default
 
 <article class="post">
 	<h1 class="game-title">{{ page.title }}</h1>
+	<h2 class="game-date"> {{ page.date | date: "%b %Y" }}</h2>
     {{ content }}
 	<ul class="rig columns-2">
 	{% for gallery in site.data.galleries %}
