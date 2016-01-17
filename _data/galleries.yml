@@ -128,3 +128,11 @@
   description: Collection of images from The Starscape Shimmer
   imagefolder: /assets/starscape_shimmer/gallery
   images:
+  - name: starscape-1.png
+    text: The main lobby of The Starscape.
+  - name: starscape-2.png
+    text: The projector room.
+  - name: starscape-3.png
+    text: Inside the theatre.
+  - name: starscape-4.png
+    text: In the basement.
