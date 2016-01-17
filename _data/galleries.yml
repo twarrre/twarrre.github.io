@@ -124,7 +124,7 @@
   description: Collection of images from I Just Got My L
   imagefolder: /assets/ijgml/gallery
   images:
- - id: starscapeGallery
+- id: starscapeGallery
   description: Collection of images from The Starscape Shimmer
   imagefolder: /assets/starscape_shimmer/gallery
   images:
