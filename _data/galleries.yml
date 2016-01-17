@@ -7,15 +7,13 @@
   imagefolder: /assets/cluck/gallery
   images:
   - name: cluck-1.jpg
-    text: The first image
+    text: The title screen of Cluck.
   - name: cluck-2.jpg
-    text: The second image
+    text: Gameplay screenshot.
   - name: cluck-3.jpg
-    text: The third image
+    text: You've caught a chicken!
   - name: cluck-4.jpg
-    text: The fourth image
-  - name: cluck-5.jpg
-    text: The fifth image
+    text: Throwing the chicken into the pen.
 - id: sidekickGallery
   description: Collection of images from Sidekick
   imagefolder: /assets/sidekick/gallery
