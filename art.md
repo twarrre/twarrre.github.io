@@ -21,6 +21,9 @@ tag: Art
 					<p>
 						{{ post.desc }}
 					</p>
+					<p>
+						{{ post.date | date: "%b %Y" }}
+					</p>
 					</div>
 				</td>
 			</tr>
