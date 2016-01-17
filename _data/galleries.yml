@@ -19,35 +19,35 @@
   imagefolder: /assets/sidekick/gallery
   images:
   - name: sidekick-1.jpg
-    text: The first image
+    text: The Sidekick Tales title screen.
   - name: sidekick-2.jpg
-    text: The second image
+    text: Flying through the desert region.
   - name: sidekick-3.jpg
-    text: The third image
+    text: Picking up some spare body parts.
   - name: sidekick-4.jpg
-    text: The fourth image
+    text: Don't mess with that bear.
   - name: sidekick-5.jpg
-    text: The fifth image
+    text: Exploring the snowy region.
   - name: sidekick-6.jpg
-    text: The sixth image
+    text: Going for a swim.
 - id: findawordGallery
   description: Collection of images from Find A Word
   imagefolder: /assets/find_a_word/gallery
   images:
   - name: word-1.jpg
-    text: The first image
+    text: Find A Word title screen.
   - name: word-2.jpg
-    text: The second image
+    text: Choosing you puzzle size.
   - name: word-3.jpg
-    text: The third image
+    text: A small word search.
   - name: word-4.jpg
-    text: The fourth image
+    text: A medium word search.
   - name: word-5.jpg
-    text: The fifth image
+    text: A large word search.
   - name: word-6.jpg
-    text: The sixth image
+    text: Highlighting words.
   - name: word-7.jpg
-    text: The seventh image
+    text: You've found all of the words!
 - id: imagemorpherGallery
   description: Collection of images from the Image Morpher
   imagefolder: /assets/image_morpher/gallery
@@ -65,19 +65,19 @@
   imagefolder: /assets/teddie/gallery
   images:
   - name: teddie-1.jpg
-    text: The first image
+    text: From the front, close up.
   - name: teddie-2.jpg
-    text: The second image
+    text: From the front, far away.
   - name: teddie-3.jpg
-    text: The third image
+    text: Side view.
   - name: teddie-4.jpg
-    text: The fourth image
+    text: Back view.
   - name: teddie-5.jpg
-    text: The diffuse map I created for Teddie.
+    text: The diffuse map for Teddie.
   - name: teddie-6.jpg
-    text: The normal map I created for Teddie.
+    text: The normal map for Teddie.
   - name: teddie-7.jpg
-    text: The specular map I created for Teddie.
+    text: The specular map for Teddie.
 - id: chitchatGallery
   description: Collection of images from ChitChat
   imagefolder: /assets/chitchat/gallery
@@ -87,40 +87,44 @@
   imagefolder: /assets/plant_a_carrot/gallery
   images:
   - name: carrot-1.jpg
-    text: The first image
+    text: The title screen for Plant a Carrot.
   - name: carrot-2.jpg
-    text: The second image
+    text: Gameplay screenshot at night.
   - name: carrot-3.jpg
-    text: The third image
+    text: Gameplay screenshot during the day.
 - id: vikingGallery
   description: Collection of images from Viking Twelve
   imagefolder: /assets/viking_twelve/gallery
   images:
   - name: viking-1.jpg
-    text: The first image
+    text: The title screen for Viking XII.
   - name: viking-2.jpg
-    text: The second image
+    text: The unit select screen.
   - name: viking-3.jpg
-    text: The third image
+    text: Checking out the description of a ship.
   - name: viking-4.jpg
-    text: The fourth image
+    text: Unit placement phase.
   - name: viking-5.jpg
-    text: The fifth image
+    text: Flag placement phase.
   - name: viking-6.jpg
-    text: The sixth image
+    text: The game has started.
   - name: viking-7.jpg
-    text: The seventh image
+    text: The Vikings are attacking.
   - name: viking-8.jpg
-    text: The eighth image
+    text: The Grays are attacking.
   - name: viking-9.jpg
-    text: The ninth image
+    text: You've found a power-up in the asteroid.
   - name: viking-10.jpg
-    text: The tenth image
+    text: The Viking ship is scouting the Gray ship.
   - name: viking-11.jpg
-    text: The eleventh image
+    text: Gameplay screenshot.
   - name: viking-12.jpg
-    text: The twelfth image
+    text: Destroying an asteroid.
 - id: ijgmlGallery
   description: Collection of images from I Just Got My L
   imagefolder: /assets/ijgml/gallery
+  images:
+ - id: starscapeGallery
+  description: Collection of images from The Starscape Shimmer
+  imagefolder: /assets/starscape_shimmer/gallery
   images:
