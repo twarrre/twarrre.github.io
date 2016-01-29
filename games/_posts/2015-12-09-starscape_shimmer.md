@@ -16,6 +16,8 @@ Below is a trailer that was made about half-way through development.
 
 This game was developed by a team of five during the third term of the BCIT Video Game Development program. The game is an exploration game similar to games like Gone Home. As you explore the abandoned theatre, you begin to piece together what happened and why it has become abandoned. In addition, you can watch some old public domain films that we have included as part of the puzzles in the game. During development, I handled programming the player interactions such as reading notes, opening doors and manipulating objects. I also programmed the GUI and created some basic art assets for the game.
 
+The Starscape Shimmer can be downloaded <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fmega.nz%2F%23!3sNy1YrJ!IdCmHrAcmGHMpgqr-nEjktRDuIFPhwXnQ9oza4VZ2mY&h=wAQHAgbwq">here</a>.
+
 ###Developed With:
 * Platform: PC
 * Engine: Unreal Engine 4
