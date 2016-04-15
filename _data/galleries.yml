@@ -136,3 +136,23 @@
     text: Inside the theatre.
   - name: starscape-4.png
     text: In the basement.
+- id: moleGallery
+  description: Collection of images from The Mole
+  imagefolder: /assets/themole/gallery
+  images:
+  - name: mole-1.png
+    text: The main menu for The Mole.
+  - name: mole-2.png
+    text: The Level Select screen for The Mole.
+  - name: mole-3.png
+    text: Dialog sequence between characters.
+  - name: mole-4.png
+    text: Borin digging.
+  - name: mole-5.png
+    text: Borin jumping.
+  - name: mole-6.png
+    text: Borin using the chicken hat.
+  - name: mole-7.png
+    text: Borin using the mind-control hat.
+  - name: mole-8.png
+    text: Borin confronting The Underwatch.
