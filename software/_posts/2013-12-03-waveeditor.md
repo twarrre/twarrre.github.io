@@ -8,7 +8,7 @@ gallery: waveeditorGallery
 ---
 Under construction.
 
-###Developed With:
-* Framework: Win32
-* Programming Language: C / C++
-* IDE: Visual Studio 2012
+### Developed With:
+* __API:__ Win32
+* __Programming Language:__ C, C++
+* __IDE:__ Visual Studio 2012

@@ -8,7 +8,7 @@ gallery: imagemorpherGallery
 ---
 Under construction.
 
-###Developed With:
-* Framework: .NET
-* Programming Language: C#
-* IDE: Visual Studio 2013
+### Developed With:
+* __Framework:__ .NET
+* __Programming Language:__ C#
+* __IDE:__ Visual Studio 2013
