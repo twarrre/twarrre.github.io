@@ -14,7 +14,7 @@ You wake up in a strange labyrinth with a large bleeding wound on your goat-like
 
 This game was developed in a month by a team of four as an industry project at BCIT. My role included programming the shaders to incorporate normal mapping and point lighting, as well as programming and working with the art assets in the game.
 
-###Developed With:
+### Developed With:
 * Framework: DirectX 11.1
 * Programming Language: C++
 * IDE: Visual Studio 2013

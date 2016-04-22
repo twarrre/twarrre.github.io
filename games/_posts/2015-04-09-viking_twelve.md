@@ -10,7 +10,7 @@ Annoyed that historians were so begrudging in acknowledging that they were the f
 
 This game is was developed by a team of five for the second term of the BCIT Video Game Development program. The game is a local two player turn-based strategy game, designed for players to pass an iPad back and forth. Each team selects and places their units, all of which have a pool of action points that they use to move, attack, search asteroids, or activate their special powers. In this game I handled the camera controls, parts of the render pipeline, unit placement, and both the programming and designing of some of the GUI and HUD elements.
 
-###Developed With:
+### Developed With:
 * Platform: iPad running iOS 8.1 and up
 * Graphics API: OpenGL ES 2.0
 * Programming Language: Objective-C, C, and C++
