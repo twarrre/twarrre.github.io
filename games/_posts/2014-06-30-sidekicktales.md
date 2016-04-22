@@ -15,6 +15,7 @@ You are the sidekick of the legendary Supman, protector of the universe. But one
 This game was developed by a team of seven and entered in the 2014 Indie Game Maker contest. My role included programming the player and camera movement, programming the audio and sound effects, as well as programming and creating the HUD for the game. The game's entry page can be found <a href="http://contest.rpgmakerweb.com/game/view/id/434#.VQ8n-vnF-3g">here.
 
 ### Developed With:
-* Engine: Unity
-* Programming Language: C#
-* IDE: MonoDevelop / Visual Studio 2013
+* __Platform:__ PC
+* __Engine:__ Unity
+* __Programming Language:__ C#
+* __IDE:__ MonoDevelop, Visual Studio 2013

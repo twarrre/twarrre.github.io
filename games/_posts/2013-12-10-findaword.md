@@ -11,6 +11,6 @@ Find a Word is a word search game that delivers you endless different word searc
 This game was developed by a team of four for a client during the projects term at BCIT. I handled the transitions between views, general page layouts including the grid that the letters are placed in, the swipe control / swipe assist, and the word checking to make sure you chose the correct words.
 
 ### Developed With:
-* Platform: Android
-* Programming Language: Java
-* IDE: Eclipse
+* __Platform:__ Android
+* __Programming Language:__ Java
+* __IDE:__ Eclipse

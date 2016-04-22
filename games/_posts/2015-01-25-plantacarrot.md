@@ -11,6 +11,7 @@ In the middle of a hunger crisis, you and your trusty farming satchel are the on
 This game was developed by a team of four during the Vancouver Global Game Jam. The theme for the Game Jam was "What do you do now?". For this game, I handled programming the animations, the design of the world, as well as the placement of the carrots. The game can be viewed <a href="http://globalgamejam.org/2015/games/plant-carrot">here</a> and played <a href="http://gamejolt.com/games/other/plant-a-carrot/46324/">here</a>.
 
 ### Developed With:
-* Engine: Unity
-* Programming Language: C#
-* IDE: Visual Studio 2013
+* __Platform:__ Web
+* __Engine:__ Unity
+* __Programming Language:__ C#
+* __IDE:__ Visual Studio 2013

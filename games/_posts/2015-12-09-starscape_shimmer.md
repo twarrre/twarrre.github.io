@@ -19,7 +19,7 @@ This game was developed by a team of five during the third term of the BCIT Vide
 The Starscape Shimmer can be downloaded <a href="https://mega.nz/#!3sNy1YrJ!IdCmHrAcmGHMpgqr-nEjktRDuIFPhwXnQ9oza4VZ2mY">here</a>.
 
 ### Developed With:
-* Platform: PC
-* Engine: Unreal Engine 4
-* Programming Language: C++
-* IDE: Visual Studio 2013
+* __Platform:__ PC
+* __Engine:__ Unreal Engine 4
+* __Programming Language:__ C++
+* __IDE:__ Visual Studio 2013
