@@ -24,7 +24,7 @@ Have any questions, feedback, or suggestions? Feel free to send me an email usin
 </form>
 <script>
     var contactform =  document.getElementById('contactform');
-    contactform.setAttribute('action', '//formspree.io/' + 't' + 'wa' + 're' + '41' + '94' + '@' + 'gmail' + '.' + 'com');
+    contactform.setAttribute('action', '//formspree.io/' + 't' + 're' + 'vo' + 'r' + 'wa' +'re' + '@' + 'outlook' + '.' + 'com');
 </script>
 
 </div>
