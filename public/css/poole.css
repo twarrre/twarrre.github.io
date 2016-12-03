@@ -593,6 +593,8 @@ a.pagination-item:hover {
   display: inline-block;
   padding: 0;
   margin: 0;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 #cssmenu.align-right ul li {
   float: right;
@@ -604,7 +606,7 @@ a.pagination-item:hover {
   color: #146189;
   text-decoration: none;
   display: block;
-  padding: 50px 50px;
+  padding: 15px 15px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -672,7 +674,7 @@ a.pagination-item:hover {
   }
 
   #cssmenu ul li {
-    float: right;
+    float: none;
     display: block;
   }
   #cssmenu ul li a {
