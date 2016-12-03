@@ -569,11 +569,10 @@ a.pagination-item:hover {
 #cssmenu {
   /*background: #afd7ec;*/
   background-color : transparent;
-  width: auto;
+  /*width: auto;*/
   padding-top: 128px;
   padding-left: 0px;
   float: right;
-  text-align: right;
 }
 #cssmenu ul {
   list-style: none;
