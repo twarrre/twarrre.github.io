@@ -562,6 +562,9 @@ a.pagination-item:hover {
   float: left;
 }
 
+div#cssmenu {
+    text-align: right;
+}
 /*
 	menu bar
 */
