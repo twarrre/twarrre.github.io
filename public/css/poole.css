@@ -580,6 +580,7 @@ a.pagination-item:hover {
   line-height: 1;
   display: block;
   zoom: 1;
+  text-align:right;
 }
 #cssmenu ul:after {
   content: " ";
