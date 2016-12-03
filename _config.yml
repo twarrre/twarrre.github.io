@@ -22,7 +22,7 @@ pages_list:
   Games: '/games'
   #Software: '/software'
   #Art: '/art'
-  #Blog: '/blog'
+  Blog: '/blog'
   Contact: '/contact'
 
 twitter_username: twarrre

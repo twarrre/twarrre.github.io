@@ -118,7 +118,7 @@ a:focus  :not(#menu){
   color: #021620;
   position: relative;
   top: 2px;
-  text-align: right;
+  float: right;
 }
 
 /* Headings */
