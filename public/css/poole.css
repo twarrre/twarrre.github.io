@@ -569,7 +569,7 @@ a.pagination-item:hover {
 #cssmenu {
   /*background: #afd7ec;*/
   background-color : transparent;
-  /*width: auto;*/
+  width: auto;
   padding-top: 128px;
   padding-left: 0px;
 }
@@ -580,6 +580,7 @@ a.pagination-item:hover {
   line-height: 1;
   display: block;
   zoom: 1;
+  text-align: right;
 }
 #cssmenu ul:after {
   content: " ";
@@ -593,8 +594,6 @@ a.pagination-item:hover {
   display: inline-block;
   padding: 0;
   margin: 0;
-  padding-left: 50px;
-  padding-right: 50px;
 }
 #cssmenu.align-right ul li {
   float: right;
