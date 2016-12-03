@@ -580,7 +580,6 @@ a.pagination-item:hover {
   line-height: 1;
   display: block;
   zoom: 1;
-  float: right;
 }
 #cssmenu ul:after {
   content: " ";
@@ -605,7 +604,7 @@ a.pagination-item:hover {
   color: #146189;
   text-decoration: none;
   display: block;
-  padding: 15px 15px;
+  padding: 50px 50px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
