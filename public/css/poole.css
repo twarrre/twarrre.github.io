@@ -562,9 +562,6 @@ a.pagination-item:hover {
   float: left;
 }
 
-div#cssmenu {
-    text-align: right;
-}
 /*
 	menu bar
 */
@@ -583,6 +580,7 @@ div#cssmenu {
   line-height: 1;
   display: block;
   zoom: 1;
+  float: right;
 }
 #cssmenu ul:after {
   content: " ";
