@@ -20,9 +20,9 @@ github:
 pages_list:
   About: '/'
   Games: '/games'
-  Software: '/software'
-  Art: '/art'
-  Blog: '/blog'
+  #Software: '/software'
+  #Art: '/art'
+  #Blog: '/blog'
   Contact: '/contact'
 
 twitter_username: twarrre
