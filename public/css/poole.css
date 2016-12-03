@@ -672,7 +672,7 @@ a.pagination-item:hover {
   }
 
   #cssmenu ul li {
-    float: none;
+    float: right;
     display: block;
   }
   #cssmenu ul li a {
