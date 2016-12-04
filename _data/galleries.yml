@@ -156,3 +156,20 @@
     text: Borin using the mind-control hat.
   - name: mole-8.png
     text: Borin confronting The Underwatch.
+- id: overtoneGallery
+  description: Collection of images from Overtone
+  imagefolder: /assets/overtone/gallery
+  - name: overtone-1.png
+    text: Gameplay of Overtone.
+  - name: overtone-2.png
+    text: Double note during gameplay.
+  - name: overtone-3.png
+    text: Main Menu of Overtone.
+  - name: overtone-4.png
+    text: Difficulty Select Screen of Overtone.
+  - name: overtone-5.png
+    text: Options Menu of Overtone.
+  - name: overtone-6.png
+    text: Mutation parameters for the Genetic Algorithm.
+  - name: overtone-7.png
+    text: Song Completion Menu of Overtone.
