@@ -672,17 +672,10 @@ a.pagination-item:hover {
     padding-left: 0px;
   }
   
-  #cssmenu.align-center ul li {
-    float: center;
-  }
-  
-  #cssmenu.align-center ul {
-    text-align: center;
-  }
-  
   #cssmenu ul li {
     float: none;
     display: block;
+	text-align: center;
   }
   #cssmenu ul li a {
     width: 100%;
