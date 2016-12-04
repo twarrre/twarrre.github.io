@@ -159,6 +159,7 @@
 - id: overtoneGallery
   description: Collection of images from Overtone
   imagefolder: /assets/overtone/gallery
+  images:
   - name: overtone-1.png
     text: Gameplay of Overtone.
   - name: overtone-2.png
