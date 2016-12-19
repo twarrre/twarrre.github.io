@@ -10,7 +10,7 @@ In the middle of a hunger crisis, you and your trusty farming satchel are the on
 
 This game was developed by a team of four during the 2015 Vancouver Global Game Jam. The theme for the Game Jam was "What do you do now?". For this game, I handled programming the animations, the design of the world, as well as the placement of the carrots.
 
-Plant A Carrot can be viewed <a href="http://globalgamejam.org/2015/games/plant-carrot">here</a> and played <a href="http://gamejolt.com/games/other/plant-a-carrot/46324/">here</a>.
+Plant A Carrot can be viewed <a href="http://globalgamejam.org/2015/games/plant-carrot">here</a> and played <a href="http://gamejolt.com/games/other/plant-a-carrot/46324/">here</a>. Code can be viewed on <a href="https://github.com/Shane-S/GGJV2015">GitHub</a>.
 
 ### Developed With:
 * __Platform:__ Web
