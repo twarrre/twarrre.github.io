@@ -12,7 +12,9 @@ You are the sidekick of the legendary Supman, protector of the universe. But one
 	<iframe src="//www.youtube.com/embed/aiNcoj9zleA" frameborder="0" allowfullscreen="1"></iframe>
 </div>
 
-This game was developed by a team of seven and entered in the 2014 Indie Game Maker Contest. My role included programming the player and camera movement, programming the audio and sound effects, as well as programming and creating the HUD for the game. The game's entry page can be found <a href="http://contest.rpgmakerweb.com/game/view/id/434#.VQ8n-vnF-3g">here.
+This game was developed by a team of seven and entered in the 2014 Indie Game Maker Contest. My role included programming the player and camera movement, programming the audio and sound effects, as well as programming and creating the HUD for the game.
+
+Sidekick Tales can be downloaded <a href="https://drive.google.com/open?id=0B6pPk6ylguVNb2M3T0pjeXpmZWM">here</a>.
 
 ### Developed With:
 * __Platform:__ PC
