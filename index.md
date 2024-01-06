@@ -8,6 +8,5 @@ tag: About
 
 Ever since I was little, I've wanted to make video games, so I went to <a href="http://www.bcit.ca">BCIT</a> to learn programming. After four years I got my <a href="http://www.bcit.ca/study/programs/825hbtech">Bachelors of Technology</a> from BCIT, specializing in Video Game Development. I am now working at <a href="http://blackbirdinteractive.com/">Blackbird Interactive</a> as a junior programmer. This site contains a portfolio of some of the games I have made over the years.
 
-Feel free to email me from the <a href="/contact">Contact</a> page if you have any questions or concerns.
 <br>
 <br>
