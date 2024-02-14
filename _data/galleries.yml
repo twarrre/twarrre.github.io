@@ -174,3 +174,17 @@
     text: Mutation parameters for the Genetic Algorithm.
   - name: overtone-7.png
     text: Song Completion Menu of Overtone.
+- id: shipbreakerGallery
+  description: Collection of images from Hardspace: Shipbreaker
+  imagefolder: /assets/shipbreaker/gallery
+  images:
+  - name: shipbreaker-1.png
+    text: The exterior of a ship.
+  - name: shipbreaker-2.png
+    text: Cutting up a ship.
+  - name: shipbreaker-3.png
+    text: The interior of a ship.
+  - name: shipbreaker-4.png
+    text: Using the scanner tool.
+  - name: shipbreaker-5.png
+    text: Causing a reactor explosion.
