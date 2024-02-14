@@ -4,9 +4,16 @@ title: About
 tag: About
 ---
 
-<img id="aboutimg" src="/assets/icons/about.png" width="154" height="192" />My name's Trevor Ware and I am living in Richmond, British Columbia. I love playing video games and enjoy making them.
+<img id="aboutimg" src="/assets/icons/about.png" width="154" height="192" />My name is Trevor Ware and I live in Richmond, BC, Canada. I am an experienced video game programmer, who loves playing and making video games. 
 
-Ever since I was little, I've wanted to make video games, so I went to <a href="http://www.bcit.ca">BCIT</a> to learn programming. After four years I got my <a href="http://www.bcit.ca/study/programs/825hbtech">Bachelors of Technology</a> from BCIT, specializing in Video Game Development. I am now working at <a href="http://blackbirdinteractive.com/">Blackbird Interactive</a> as a junior programmer. This site contains a portfolio of some of the games I have made over the years.
+I have over seven years of experience in the games industry. I started my career at <a href="http://blackbirdinteractive.com">Blackbird Interactive (BBI)</a> in 2016 as an Associate Programmer, and I am now a Senior Programmer.
+
+My most recent role at BBI was as a Lead Programmer for an unannounced project developed with Unreal Engine 5, where I specialized in gameplay and character movement
+
+Before that, I worked on <a href=”https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/”>
+Hardspace: Shipbreaker</a>, developed with Unity. I started working on Shipbreaker in 2016 and it was released in 2022. I was a generalist programmer on Shipbreaker, and I worked on features including the grappling hook, the elemental system, procedural ship generation, save load and console porting.
+
+I studied programming at the <a href="http://www.bcit.ca">British Columbia Institute of Technology (BCIT)</a>, and graduated in 2016, where I received a Bachelors of Technology specializing in VIdeo Game Development.
 
 <br>
 <br>
