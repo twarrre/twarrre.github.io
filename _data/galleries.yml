@@ -178,13 +178,13 @@
   description: Collection of images from Hardspace Shipbreaker
   imagefolder: /assets/shipbreaker/gallery
   images:
-  - name: shipbreaker-1.png
+  - name: shipbreaker-1.jpg
     text: The exterior of a ship.
-  - name: shipbreaker-2.png
+  - name: shipbreaker-2.jpg
     text: Cutting up a ship.
-  - name: shipbreaker-3.png
+  - name: shipbreaker-3.jpg
     text: The interior of a ship.
-  - name: shipbreaker-4.png
+  - name: shipbreaker-4.jpg
     text: Using the scanner tool.
-  - name: shipbreaker-5.png
+  - name: shipbreaker-5.jpg
     text: Causing a reactor explosion.
