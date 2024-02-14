@@ -7,7 +7,7 @@ tag: Games
 gallery: shipbreakerGallery
 ---
 
-<a href=”https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/”>Hardspace: Shipbreaker</a> was the first game that I worked on professionally in the video game industry for Blackbird Interactive. I started on the project in 2016, shortly after the original team had completed a game jam to come up with the concept of Shipbreaker. Over the next few years the game went through several iterations until we found the blue-collar fantasy tone and shipbreaking gameplay.
+<a href="https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/">Hardspace: Shipbreaker</a> was the first game that I worked on professionally in the video game industry for Blackbird Interactive. I started on the project in 2016, shortly after the original team had completed a game jam to come up with the concept of Shipbreaker. Over the next few years the game went through several iterations until we found the blue-collar fantasy tone and shipbreaking gameplay.
 
 I was mostly a generalist programmer on the project. I implemented and supported many different features for the game. Later in the project I also took on some leadership responsibilities and people management roles.
 
@@ -20,7 +20,7 @@ The game was released in early access in 2020 and was published by Focus Enterta
 Below is a Unite talk that I did explaining how we implemented the explosion visual effects in Hardspace: Shipbreaker. 
 
 <div class="video">
-	<iframe src="https://youtu.be/VWjn3MQHWC8?si=1cSvKKLGArwFQNKI" frameborder="0" allowfullscreen="1"></iframe>
+	<iframe src="https://www.youtube.com/embed/VWjn3MQHWC8?si=alHGXUt81Lj4Eu-7" frameborder="0" allowfullscreen="1"></iframe>
 </div>
 
 ### Developed With:
