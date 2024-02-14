@@ -175,7 +175,7 @@
   - name: overtone-7.png
     text: Song Completion Menu of Overtone.
 - id: shipbreakerGallery
-  description: Collection of images from Hardspace: Shipbreaker
+  description: Collection of images from Hardspace Shipbreaker
   imagefolder: /assets/shipbreaker/gallery
   images:
   - name: shipbreaker-1.png
