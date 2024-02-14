@@ -5,7 +5,7 @@ tag: Games
 ---
 
 <div class="games">
-		<table>
+	<table>
 		{% for post in site.categories.games%}
 			<tr>
 				<td style="Width: 200px">

@@ -22,8 +22,8 @@ pages_list:
   Games: '/games'
   #Software: '/software'
   #Art: '/art'
-  #Blog: '/blog'
-  #Contact: '/contact'
+  Blog: '/blog'
+  Contact: '/contact'
 
 twitter_username: twarrre
 github_username:  twarrre
