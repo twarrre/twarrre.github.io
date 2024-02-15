@@ -517,7 +517,7 @@ a.pagination-item:hover {
 }
 
 .list{
-  color: #146189;
+  color: #74C2EB;   
 }
 
 .tableitem{
@@ -602,7 +602,7 @@ a.pagination-item:hover {
   text-align: center;
 }
 #cssmenu ul li a {
-  color: #146189;
+  color: #74C2EB;
   text-decoration: none;
   display: block;
   padding: 15px 15px;
@@ -618,7 +618,7 @@ a.pagination-item:hover {
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #021620;
+  color: #C8C3BC;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
