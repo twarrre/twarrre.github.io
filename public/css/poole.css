@@ -71,9 +71,9 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #93B1A6;
+  color: #083349;
   /*background-image: url("/assets/logo/splatter.png");*/
-  background-color: #040D12;
+  background-color: #2f3538;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -115,7 +115,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover  :not(#menu),
 a:focus  :not(#menu){
-  color: #5C8374;
+  color: #021620;
   position: relative;
   top: 2px;
 }
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   /*color: #313131;*/
   text-rendering: optimizeLegibility;
-  color: #183D3D;
+  color: #146189;
 }
 
 h1 {
