@@ -162,6 +162,7 @@ strong {
 .footer {
   border-top: 1px solid #146189;
   padding-top: 2em;
+  background-color: #1B1E1F;
  }
 
 /* Misc */
@@ -508,7 +509,7 @@ a.pagination-item:hover {
   text-align: right;
   font-size: 50px;
   padding-top: 10px;
-  color: #81FAEB;
+  color: #54AD71;
 }
 
 #aboutimg{
