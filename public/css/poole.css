@@ -71,9 +71,9 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #083349;
+  color: #C0BCC1;
   /*background-image: url("/assets/logo/splatter.png");*/
-  background-color: #afd7ec;
+  background-color: #34383A;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   /*color: #313131;*/
   text-rendering: optimizeLegibility;
-  color: #146189;
+  color: #74C2EB;
 }
 
 h1 {
