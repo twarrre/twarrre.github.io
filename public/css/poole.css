@@ -189,7 +189,6 @@ strong {
   left: 0;
   right: 0;
   background-color: #202324;
-  height: 100vh;
 }
 
 hr {
@@ -531,7 +530,7 @@ a.pagination-item:hover {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 84px;
+  width: 210px;
 }
 
 .icon--github
