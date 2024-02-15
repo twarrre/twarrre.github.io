@@ -14,9 +14,6 @@ Before that, I worked on <a href="https://twarrre.github.io/games/2022/05/24/har
 
 I studied programming at the <a href="http://www.bcit.ca">British Columbia Institute of Technology (BCIT)</a>, and graduated in 2016, where I received a Bachelors of Technology specializing in VIdeo Game Development.
 
-<br>
-<br>
-
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
