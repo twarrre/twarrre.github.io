@@ -17,9 +17,9 @@ The game was released in early access in 2020 and was published by Focus Enterta
 
 I was a generalist programmer on the project. I implemented and supported many different features for the game. Later in the project I also took on some leadership responsibilities and people management roles.
 
-My favourite feature to implement was the grappling hook. Using a custom spring and damper system, we were able to make a tool that could be used for both player traversal and object manipulation. We focused on traversal first, with the goal of making the player feel like Spider-Man in space. Later we implemented ways that the grapple could move objects depending on the mass of the object.
+My favourite feature to implement was the grappling hook. Using a custom spring and damper system, we were able to make a tool that could be used for both player traversal and object manipulation. We focused on traversal first, with the goal of making the player feel like Spider-Man in space. Later, we implemented ways that the grapple could move objects depending on the mass ratio between the player and the object.
 
-I also worked on the elemental system in the game. It was inspired by Breath of the Wild’s chemistry system. We took advantage of Unity’s ECS and Jobs systems to be able to implement this system by tagging objects with specific properties like “Flammable”, “Freezable” or “Explosive”. We would use component systems to query entities with these tags and process the reaction accordingly. I also implemented some complex audio systems in relation to the elemental system so that we would not overload our audio engine.
+I also worked on the elemental system of Shipbreaker. It was inspired by Breath of the Wild’s chemistry system. We took advantage of Unity’s ECS and Jobs systems to be able to implement this system. We added components to objects with specific properties like “Flammable”, “Freezable” or “Explosive”. We would use component systems to query entities with these tags and process the reaction accordingly. I also implemented some complex audio systems in relation to the elemental system so that we would not overload our audio engine.
 
 Below is a Unite talk that I participated in explaining how we implemented the explosion visual effects in Hardspace: Shipbreaker. 
 
