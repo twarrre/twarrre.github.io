@@ -190,3 +190,15 @@
     text: Causing a reactor explosion.
   - name: shipbreaker-6.jpg
     text: View of the HAB.
+- id: homeworld3Gallery
+  description: Collection of images from Homeworld 3
+  imagefolder: /assets/homeworld3/gallery
+  images:
+  - name: homeworld3-1.jpg
+    text: 
+  - name: homeworld3-2.jpg
+    text: 
+  - name: homeworld3-3.jpg
+    text: 
+  - name: homeworld3-4.jpg
+    text: 
