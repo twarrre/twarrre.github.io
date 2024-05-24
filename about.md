@@ -8,7 +8,9 @@ tag: About
 
 I have over seven years of experience in the games industry. I started my career at <a href="http://blackbirdinteractive.com">Blackbird Interactive (BBI)</a> in 2016 as an Associate Programmer, and I'm now a Senior Programmer.
 
-My most recent role at BBI was as an Associate Lead Programmer for an unannounced project developed in Unreal Engine 5, where I specialized in gameplay and character movement.
+My most recent role at BBI was as a senior programmer on <a href="https://twarrre.github.io/games/2024/05/13/homeworld3/">Homeworld 3</a> where I helped ship the game. I'm currently working on post-launch support for the game and have worked in areas like presentation, gameplay, and UI.
+
+My previous role at BBI was as an Associate Lead Programmer for an unannounced project developed in Unreal Engine 5, where I specialized in gameplay and character movement.
 
 Before that, I worked on <a href="https://twarrre.github.io/games/2022/05/24/hardspace_shipbreaker/">Hardspace: Shipbreaker</a>, developed in Unity. I started working on Shipbreaker in 2016 and it was released in 2022. I was a generalist programmer on Shipbreaker, and I worked on features including the grappling hook, the elemental system, procedural ship generation, ship save load and console porting.
 
